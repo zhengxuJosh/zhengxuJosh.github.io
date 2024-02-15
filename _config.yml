@@ -1,18 +1,18 @@
-url: "hanchaozhang.xyz "
+url: "qc-ly.github.io "
 # baseurl: /Hanchao-Zhang.github.io
 # Basic Information 
-title: Hanchao Zhang
+title: Yuanhuiyi Lyu
 # subtitle:
-position: Ph.D. Candidate
+position: RA
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: New York University
-subaffiliation: Grossman School of Medicine  
-affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+# subposition_link: https://nyu-medicine-cssa.github.io
+affiliation: Hong Kong University of Science and Technology
+subaffiliation: VLIS LAB  
+# affiliation_link: https://www.nyu.edu
+subaffiliation_link: https://vlislab22.github.io/vlislab/
+email: lvyuanhuiyi@foxmail.com
+# address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
+# address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
 
 
@@ -24,11 +24,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=6_lvla4AAAAJ&hl=en
 cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+github_link: https://github.com/QC-LY
+# linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
+# twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
