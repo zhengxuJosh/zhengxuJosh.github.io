@@ -14,12 +14,14 @@ My research interests include Multi-modal Learning, 3D Vision, and Generation Mo
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
-{% include_relative _includes/talks.md %}
+
 
 
 
 
 ## Honors and Awards
+
+
 
 - *2023.07* &emsp;**Outstanding Graduation Dissertation (<2%)**, Northeastern University. 
 - *2022.09* &emsp;**Outstanding Students Scholarship**, Northeastern University. 
@@ -28,7 +30,9 @@ My research interests include Multi-modal Learning, 3D Vision, and Generation Mo
 - *2020.09* &emsp;**Outstanding Students Scholarship**, Northeastern University.
 
 
+
 ## Internships
+
 
 - **[Oct. 2021 ‑ Dec. 2022]**, THUNLP, Tsinghua University
   - Supervisor: Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu
