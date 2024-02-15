@@ -85,9 +85,6 @@
     <a href="https://github.com/OpenMatch/UniVL-DR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://openreview.net/pdf?id=PQOlkgsBsik" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
@@ -105,9 +102,6 @@
     <a href="https://vlislab22.github.io/ECLIP/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
