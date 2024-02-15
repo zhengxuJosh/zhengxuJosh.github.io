@@ -11,13 +11,6 @@ I obtained my B.ENG in Artificial Intelligence from Northeastern University (NEU
 My research interests include Multi-modal Learning, 3D Vision, and Generation Models.
 
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
-
-
-
-
 
 ## Honors and Awards
 
@@ -39,6 +32,9 @@ My research interests include Multi-modal Learning, 3D Vision, and Generation Mo
 - **[Jun. 2021 ‑ Sep. 2021]**, NEUNLP, Northeastern University
   - Supervisor: Tong Xiao
 
+
+
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/services.md %}
 
