@@ -63,7 +63,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2309.09297">Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera</a></div>
     <div class="author">Jiahang Cao, Xu Zheng*, <strong>Yuanhuiyi Lyu*</strong>, Jiaxu Wang, Renjing Xu, Lin Wang</div>
-    <div class="periodical"><em>The 2024 IEEE International Conference on Robotics and Automation <strong>(ICRA 2024)</strong>, 2024.</em></div>
+    <div class="periodical"><em>The 2024 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.</em></div>
     <div class="links">
     <a href="https://vlislab22.github.io/EOLO/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="https://arxiv.org/pdf/2309.09297.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -87,7 +87,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2209.00179">Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval</a></div>
     <div class="author">Zhenghao Liu, Chenyan Xiong, <strong>Yuanhuiyi Lv</strong>, Zhiyuan Liu, Ge Yu</div>
     <div class="periodical"><em>
-The Eleventh International Conference on Learning Representations <strong>(ICLR 2023)</strong>, 2023.</em></div>
+The Eleventh International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em></div>
     <div class="links">
     <a href="https://github.com/OpenMatch/UniVL-DR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://openreview.net/pdf?id=PQOlkgsBsik" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
