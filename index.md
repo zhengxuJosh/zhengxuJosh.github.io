@@ -33,7 +33,6 @@ My research interests include Multi-modal Learning, 3D Vision, and Generation Mo
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Jd8OzMhdKMK1K5bnZn9Yn3pFyeY2ahWgCA6In0frwYc"></script>
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Jd8OzMhdKMK1K5bnZn9Yn3pFyeY2ahWgCA6In0frwYc&cl=ffffff&w=a"></script>
 
 
