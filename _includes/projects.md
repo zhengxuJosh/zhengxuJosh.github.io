@@ -272,7 +272,7 @@
     <div class="title"><a href="">Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation
 </a></div>
     <div class="author"><strong>Xu Zheng</strong>, Tianbo Pan, Yunhao Luo, Lin Wang</div>
-    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
+    <div class="periodical"><em>The IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
