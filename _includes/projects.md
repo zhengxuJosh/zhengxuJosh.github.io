@@ -38,7 +38,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">EventDance: Unsupervised Cross-modal Source-free Adaptation for Event-based Object Recognition</a></div>
-    <div class="author"><strong>Xu Zheng<strong>, Lin Wang</div>
+    <div class="author"><strong>Xu Zheng</strong>strong>, Lin Wang</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
@@ -61,7 +61,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation</a></div>
-    <div class="author"><strong>Xu Zheng<strong>, Pengyuan Zhou, Athanasios Vasilakos, Lin Wang</div>
+    <div class="author"><strong>Xu Zheng</strong>strong>, Pengyuan Zhou, Athanasios Vasilakos, Lin Wang</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
@@ -320,7 +320,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Adversarial co-training for semantic segmentation over medical images
 </a></div>
-    <div class="author"><strong>Xu Zheng<strong>, Yexin Liu, Yunfan Lu, Tongyan Hua, Tianbo Pan, Weiming Zhang, Dacheng Tao, Lin Wang</div>
+    <div class="author"><strong>Xu Zheng</strong>strong>, Yexin Liu, Yunfan Lu, Tongyan Hua, Tianbo Pan, Weiming Zhang, Dacheng Tao, Lin Wang</div>
     <div class="periodical"><em>T-PAMI <strong>(Under Review)</strong>, 2024.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
