@@ -296,7 +296,7 @@
     <div class="title"><a href="">A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation
 </a></div>
     <div class="author">Jinjing Zhu, Yunhao Luo, <strong>Xu Zheng</strong>, Hao Wang, Lin Wang</div>
-    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
+    <div class="periodical"><em>The IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
