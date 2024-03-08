@@ -32,29 +32,6 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/eventsurvey.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Arxiv 2023</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Deep learning for event-based vision: A comprehensive survey and benchmarks</a></div>
-    <div class="author"><strong>Xu Zheng<strong>, Yexin Liu, Yunfan Lu, Tongyan Hua, Tianbo Pan, Weiming Zhang, Dacheng Tao, Lin Wang</div>
-    <div class="periodical"><em>Arxiv, Under review, 2023.</em></div>
-    <div class="links">
-    <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/eventdance.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR 2024</abbr>
   </div>
@@ -148,7 +125,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/exact.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/goodsam.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR 2024</abbr>
   </div>
 
@@ -172,17 +149,17 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/exact.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR 2024</abbr>
+    <img src="assets/img/e-clip.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a></div>
-    <div class="author">Jiazhou Zhou,  <strong>Xu Zheng</strong>, Yuanhuiyi Lyu, Lin Wang</div>
-    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP</a></div>
+    <div class="author">Jiazhou Zhou*,  <strong>Xu Zheng*</strong>,Yuanhuiyi Lyu, Lin Wang</div>
+    <div class="periodical"><em>T-PAMI <strong>(Under Review)</strong>, 2024.</em></div>
     <div class="links">
-    <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://vlislab22.github.io/ECLIP/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
@@ -336,6 +313,30 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/eventsurvey.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Arxiv 2023</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Adversarial co-training for semantic segmentation over medical images
+</a></div>
+    <div class="author"><strong>Xu Zheng<strong>, Yexin Liu, Yunfan Lu, Tongyan Hua, Tianbo Pan, Weiming Zhang, Dacheng Tao, Lin Wang</div>
+    <div class="periodical"><em>T-PAMI <strong>(Under Review)</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/advseg.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CIBM 2023</abbr>
   </div>
@@ -396,29 +397,6 @@
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-<!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/e-clip.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP</a></div>
-    <div class="author">Jiazhou Zhou*,  <strong>Xu Zheng*</strong>,Yuanhuiyi Lyu, Lin Wang</div>
-    <div class="periodical"><em>T-PAMI <strong>(Under Review)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://vlislab22.github.io/ECLIP/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
