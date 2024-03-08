@@ -1,16 +1,16 @@
 url: "https://yuanhuiyilyu.xyz"
-baseurl: /qc-ly.github.io
+baseurl: /zhengxu.github.io
 # Basic Information 
-title: Yuanhuiyi Lyu
+title: Xu Zheng
 # subtitle:
-position: RA
+position: PhD. Student
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
 affiliation: Hong Kong University of Science and Technology (HKUST)
 subaffiliation: VLIS LAB  
 # affiliation_link: https://www.nyu.edu
 subaffiliation_link: https://vlislab22.github.io/vlislab/
-email: lvyuanhuiyi@foxmail.com
+email: zhengxu128@gmail.com
 # address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
 # address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
@@ -24,15 +24,15 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=6_lvla4AAAAJ&hl=en
+google_scholar: https://scholar.google.com.hk/citations?user=Ii1c51QAAAAJ&hl=zh-CN
 cv_link: assets/files/cv.pdf
-github_link: https://github.com/QC-LY
+github_link: https://github.com/zhengxuJosh
 # linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
 # twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/yuanhuiyilyu.png
+avatar: ./assets/img/zhengxu_master.jpg
 # logo: ./assets/img/logo_hkust.png
 favicon: ./assets/img/logo_hkust.png
 favicon_dark: ./assets/img/logo_hkust.png
