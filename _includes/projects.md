@@ -84,7 +84,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a></div>
-    <div class="author">Yuanhuiyi Lyu, <strong>Xu Zheng</strong>, Jiazhou Zhou, Lin Wang</div>
+    <div class="author">Yuanhuiyi Lyu*, <strong>Xu Zheng*</strong>, Jiazhou Zhou, Lin Wang</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
@@ -154,7 +154,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a></div>
     <div class="author">Jiazhou Zhou*,  <strong>Xu Zheng*</strong>,Yuanhuiyi Lyu, Lin Wang</div>
     <div class="periodical"><em>T-PAMI <strong>(Under Review)</strong>, 2024.</em></div>
     <div class="links">
@@ -200,7 +200,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2309.09297">Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2309.09297">Transformer-cnn cohort: Semi-supervised semantic segmentation by the best of both students</a></div>
     <div class="author"></strong>Xu Zheng</strong>, Yunhao Luo, Hao Wang, Chong Fu, Lin Wang</div>
     <div class="periodical"><em>The 2024 IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.</em></div>
     <div class="links">
@@ -272,7 +272,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation
 </a></div>
-    <div class="author">Jinjing Zhu, Yunhao Luo, <strong>Xu Zheng*</strong>, Hao Wang, Lin Wang</div>
+    <div class="author">Jinjing Zhu, Yunhao Luo, <strong>Xu Zheng</strong>, Hao Wang, Lin Wang</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
@@ -296,7 +296,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation
 </a></div>
-    <div class="author"><strong>Xu Zheng*</strong>, Jinjing Zhu, Yexin Liu, Zidong Cao, Chong Fu, Lin Wang</div>
+    <div class="author"><strong>Xu Zheng</strong>, Jinjing Zhu, Yexin Liu, Zidong Cao, Chong Fu, Lin Wang</div>
     <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
