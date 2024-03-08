@@ -341,9 +341,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Adversarial co-training for semantic segmentation over medical images
-</a></div>
-    <div class="author"><strong>Xu Zheng</strong>strong>, Yexin Liu, Yunfan Lu, Tongyan Hua, Tianbo Pan, Weiming Zhang, Dacheng Tao, Lin Wang</div>
+    <div class="title"><a href="">Deep learning for event-based vision: A comprehensive survey and benchmarks</a></div>
+    <div class="author"><strong>Xu Zheng</strong>, Yexin Liu, Yunfan Lu, Tongyan Hua, Tianbo Pan, Weiming Zhang, Dacheng Tao, Lin Wang</div>
     <div class="periodical"><em>T-PAMI <strong>(Under Review)</strong>, 2024.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
