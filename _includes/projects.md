@@ -414,7 +414,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Uncertainty-aware deep co-training for semi-supervised medical image segmentation
 </a></div>
-    <div class="author"><strong>Xu Zheng*</strong>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham</div>
+    <div class="author"><strong>Xu Zheng</strong>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham</div>
     <div class="periodical"><em>Computers in Biology and Medicine.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
