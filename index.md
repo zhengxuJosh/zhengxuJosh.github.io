@@ -11,10 +11,10 @@ Prior to HKUST, I obtained my B.ENG and M.ENG in Information and Communication E
 Lately, I’ve been focusing on Multi-modal Learning.
 
 ## News
-- *2024* Five papers accepted to **CVPR 2024**
-- *2024* Two papers accepted to **ICRA 2024**
-- *2023* Two papers accepted to **ICCV 2023**
-- *2023* One papers accepted to **CVPR 2023**
+- *2024.03* Five papers accepted to **CVPR 2024**
+- *2024.02* Two papers accepted to **ICRA 2024**
+- *2023.07* Two papers accepted to **ICCV 2023**
+- *2023.03* One papers accepted to **CVPR 2023**
 
 {% include_relative _includes/projects.md %}
 
