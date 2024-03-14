@@ -31,7 +31,8 @@ Lately, I’ve been focusing on Multi-modal Learning.
 
 - **[Oct. 2021 ‑ Sep. 2023]**, **VLISLAB**, HKUST
   - Supervisor: Lin Wang
-
+- **[Aug. 2022 ‑ Sep. 2022]**, Nagoya Unversity
+  - Summer Programs
 
 {% include_relative _includes/services.md %}
 
