@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I’m a first year PhD student supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a> at VLISLab, HKUST (GZ), interested in various DL/CV topics from low-level to high-level vision. Prior to HKUST, I obtained my B.ENG and M.ENG in Information and Communication Engineering from Northeastern University (NEU), where I focused on medical image analysis.
+I’m a first year PhD student supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a> at VLISLab, HKUST (GZ), interested in various DL/CV topics from low-level to high-level vision. Prior to HKUST, I obtained my B.ENG and M.ENG in Information and Communication Engineering from Northeastern University (NEU), supervised by Prof.  <a href="https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN&oi=ao">Chong Fu</a>, where I focused on semi-supervised learning and medical image analysis.
 
-Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
-
+I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from human cognition. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
+ 
 ## News
 - *2024.03* One paper accepted to **Pattern Recognition**, congrats to Jialei!
 - *2024.03* Five papers accepted to **CVPR 2024**
