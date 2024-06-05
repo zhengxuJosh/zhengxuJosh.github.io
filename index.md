@@ -9,9 +9,9 @@ I’m a first year PhD student supervised by Prof. <a href="https://vlislab22.gi
 I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from human cognition. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
  
 ## News
-- *2024.03* One paper accepted to **IEEE CAI**, congrats to Zeyu!
-- *2024.03* One paper accepted to **Pattern Recognition**, congrats to Jialei!
-- *2024.03* Five papers accepted to **CVPR 2024**
+- *2024.03* One paper accepted to **IEEE CAI**
+- *2024.03* One paper accepted to **Pattern Recognition**
+- *2024.03* Five papers (one Highlight) accepted to **CVPR 2024**
 - *2024.02* Two papers accepted to **ICRA 2024**
 - *2023.07* Two papers accepted to **ICCV 2023**
 - *2023.03* One paper accepted to **CVPR 2023**
