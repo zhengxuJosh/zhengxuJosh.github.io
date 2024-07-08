@@ -14,6 +14,10 @@
   <li><a href="[http://cvpr2024.thecvf.com/](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)"><autocolor>IEEE Transection of Multimedia (TMM)</autocolor></a></li>
 </ul> 
 
+<ul style="margin:0 0 5px;">
+  <li><a href="[http://cvpr2024.thecvf.com/](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)"><autocolor>IEEE Transactions on Neural Networks and Learning Systems <onbehalfof@manuscriptcentral.com> (TNNLS)</autocolor></a></li>
+</ul> 
+
 <h4 style="margin:0 10px 0;">PC Members</h4>
 
 <ul style="margin:0 0 5px;">
