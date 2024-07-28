@@ -15,6 +15,10 @@
 </ul> 
 
 <ul style="margin:0 0 5px;">
+  <li><a href="[http://cvpr2024.thecvf.com/](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)"><autocolor>Image and Vision Computing (IVC)</autocolor></a></li>
+</ul> 
+
+<ul style="margin:0 0 5px;">
   <li><a href="[http://cvpr2024.thecvf.com/](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)"><autocolor>Computers in Biology and Medicine (CBM)</autocolor></a></li>
 </ul> 
 
