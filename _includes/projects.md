@@ -39,7 +39,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Learning Modality-agnostic Representation for Semantic Segmentation from Any Modalities</a></div>
     <div class="author"><strong>Xu Zheng</strong>, Yuanhuiyi Lyu, Lin Wang</div>
-    <div class="periodical"><em>The European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
+    <div class="periodical"><em>The European Conference on Computer Vision <strong>(ECCV) <span style="color: red;">Oral</span></strong>, 2024.</em></div>
     <div class="links">
     <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
