@@ -26,6 +26,10 @@
   <li><a href="[http://cvpr2024.thecvf.com/]()"><autocolor>Computers in Biology and Medicine (CBM)</autocolor></a></li>
 </ul> 
 
+<ul style="margin:0 0 5px;">
+  <li><a href="[http://cvpr2024.thecvf.com/]()"><autocolor>Machine Vision and Applications (MVA)</autocolor></a></li>
+</ul> 
+
 <h4 style="margin:0 10px 0;">PC Members</h4>
 
 <ul style="margin:0 0 5px;">
