@@ -7,6 +7,10 @@
 </ul> 
 
 <ul style="margin:0 0 5px;">
+  <li><a href="[http://cvpr2024.thecvf.com/]()"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
+</ul> 
+
+<ul style="margin:0 0 5px;">
   <li><a href="[http://cvpr2024.thecvf.com/]()"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
 </ul> 
 
