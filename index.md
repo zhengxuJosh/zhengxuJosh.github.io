@@ -10,6 +10,7 @@ I study machine perception, reasoning, and interaction with the physical world, 
 
 
 ## News
+- *2024.09* One paper accepted to **Pattern Recognition**
 - *2024.07* Three papers (one **Oral (1.5%)**) accepted to **ECCV 2024**
 - *2024.03* One paper accepted to **IEEE CAI 2024**
 - *2024.03* One paper accepted to **Pattern Recognition**
