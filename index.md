@@ -4,8 +4,6 @@ layout: homepage
 
 ## About Me
 
-I’m a second year PhD student at AI Thrust, Information Hub, HKUST (GZ), interested in various DL/CV topics. Prior to HKUST, I obtained my B.ENG and M.ENG from Northeastern University (NEU), where I focused on deep learning and medical imaging.
-
 I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
 
 
