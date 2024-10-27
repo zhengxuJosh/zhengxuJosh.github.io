@@ -28,9 +28,9 @@ I study machine perception, reasoning, and interaction with the physical world, 
 - *2019.06* &emsp;**Outstanding Graduate of Liaoning Province / Northeastern University (<2%)**. 
 
 
-## Internships
+## Internships and Working Experiences
 
-- **[Oct. 2021 ‑ Sep. 2023]**, VLISLAB, HKUST
+- **[Oct. 2021 ‑ Oct. 2024]**, Reaserch Assistant, VLISLAB, HKUST
   - Supervisor: Lin Wang
 - **[Aug. 2022 ‑ Sep. 2022]**, Nagoya Unversity
   - Summer Programs
