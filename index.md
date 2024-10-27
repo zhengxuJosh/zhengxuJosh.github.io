@@ -8,6 +8,7 @@ I study machine perception, reasoning, and interaction with the physical world, 
 
 
 ## News
+- *2024.10* One paper accepted to **IEEE TPAMI**
 - *2024.10* Oral presentation @ **ECCV 2024 Oral Session 5A: Segmentation** [(video)](https://eccv.ecva.net/virtual/2024/session/103)
 - *2024.09* One paper accepted to **Pattern Recognition**
 - *2024.07* Three papers (one **Oral (1.5%)**) accepted to **ECCV 2024**
