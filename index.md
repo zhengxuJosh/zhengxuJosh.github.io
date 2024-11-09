@@ -12,6 +12,7 @@ Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.googl
 
 I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
 
+✉️ Welcome to contact me for any discussion and cooperation!
 
 ## News
 - *2024.10* One paper accepted to **IEEE TPAMI**
