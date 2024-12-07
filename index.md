@@ -6,9 +6,11 @@ layout: homepage
 ## About Me
 I am a second year Ph.D. student in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/). 
 
+I will join [INSAIT](https://insait.ai/) as a visiting researcher in early 2025, under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/).
+
 Recently, I also collaborate with [Athanasios Vasilakos @ UiA](https://scholar.google.com.hk/citations?hl=zh-CN&user=_yWPQWoAAAAJ&view_op=list_works&sortby=pubdate), [Peng Yuan Zhou @ AU](https://www.au.dk/en/pengyuan.zhou@ece.au.dk), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/).
 
-Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.google.com.hk/citations?user=SReb2csAAAAJ&hl=zh-CN) and earned my B.Eng and M.Eng degrees at Northeastern University under the supervision of [Chong Fu @ NEU](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN).
+Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.google.com.hk/citations?user=SReb2csAAAAJ&hl=zh-CN) and got my B.Eng and M.Eng degrees at Northeastern University under the supervision of [Chong Fu @ NEU](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN).
 
 I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
 
