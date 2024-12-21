@@ -1,5 +1,13 @@
 ## Services
 
+
+<h4 style="margin:0 10px 0;">Area Chair</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="[http://cvpr2024.thecvf.com/](https://link.springer.com/journal/11263)"><autocolor>PDLM Workshop @ AAAI 2025</autocolor></a></li>
+</ul> 
+
+
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
