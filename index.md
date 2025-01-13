@@ -4,7 +4,7 @@ layout: homepage
 
 
 ## About Me
-I am a second year Ph.D. student in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/). 
+I am a Ph.D. candidate in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/). 
 
 I will join [INSAIT](https://insait.ai/) as a visiting researcher in early 2025, under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/).
 
@@ -17,6 +17,7 @@ I study machine perception, reasoning, and interaction with the physical world, 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
 ## News
+- *2025.01* Sucessfully passed PhD Qualifying Examination!
 - *2024.12* Invited as an **Area Chair** of PDLM @ **AAAI 2025**.
 - *2024.10* One paper accepted to **IEEE TPAMI**
 - *2024.10* Oral presentation @ **ECCV 2024 Oral Session 5A: Segmentation** [(video)](https://eccv.ecva.net/virtual/2024/session/103)
@@ -42,7 +43,7 @@ I study machine perception, reasoning, and interaction with the physical world, 
 ## Internships and Working Experiences
 
 - **[Oct. 2021 ‑ Oct. 2024]**, Reaserch Assistant, VLISLAB, HKUST
-  - Supervisor: Lin Wang
+  - Supervisor: Addison Lin Wang
 - **[Aug. 2022 ‑ Sep. 2022]**, Nagoya Unversity
   - Summer Programs
 
