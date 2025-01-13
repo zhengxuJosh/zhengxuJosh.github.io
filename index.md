@@ -4,7 +4,7 @@ layout: homepage
 
 
 ## About Me
-I am a Ph.D. candidate in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/). 
+I am a Ph.D. candidate in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Wong @ HKUST](https://www.cse.ust.hk/~raywong/). 
 
 I will join [INSAIT](https://insait.ai/) as a visiting researcher in early 2025, under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/).
 
