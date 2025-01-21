@@ -17,7 +17,7 @@ I study machine perception, reasoning, and interaction with the physical world, 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
 ## News
-- *2025.01* Sucessfully passed PhD Qualifying Examination!
+- *2025.01* Successfully passed PhD Qualifying Examination!
 - *2024.12* Invited as an **Area Chair** of PDLM @ **AAAI 2025**.
 - *2024.10* One paper accepted to **IEEE TPAMI**
 - *2024.10* Oral presentation @ **ECCV 2024 Oral Session 5A: Segmentation** [(video)](https://eccv.ecva.net/virtual/2024/session/103)
