@@ -6,7 +6,7 @@ layout: homepage
 ## About Me
 I am a Ph.D. candidate in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). 
 
-I am a visiting researcher at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/).
+I am a Resident Doctoral Researcher at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/).
 
 Recently, I also collaborate with [Athanasios Vasilakos @ UiA](https://scholar.google.com.hk/citations?hl=zh-CN&user=_yWPQWoAAAAJ&view_op=list_works&sortby=pubdate), [Peng Yuan Zhou @ AU](https://www.au.dk/en/pengyuan.zhou@ece.au.dk), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/).
 
