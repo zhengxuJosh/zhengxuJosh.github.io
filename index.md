@@ -14,6 +14,20 @@ Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.googl
 
 I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
 
+## Mentorship
+I am honored to have mentored the following junior researchers:
+- [Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)](https://qc-ly.github.io/)  
+- [Mengzhen Chi, Ph.D. student @ NEU]()  
+- [Chenfei Liao, M.Phil. student @ HKUST(GZ)](https://scholar.google.com.hk/citations?user=2ZlT5o0AAAAJ&hl=zh-CN&oi=ao)  
+- [Ding Zhong, Master’s student @ Umich](https://scholar.google.com.hk/citations?hl=zh-CN&user=927Gr88AAAAJ)  
+- [Zihao Dongfang, Research Assistant @ HKUST(GZ)]()  
+- [Ziqiao Weng, Undergraduate student @ SCU]()  
+- [Yulong Guo, Master’s student @ ZJU]()  
+- [Kaiyu Lei, Undergraduate student @ XJTU]()  
+- [Junha Moon (문준하), M.Phil. student @ HKUST(GZ)]()
+  
+✉️ Welcome to contact me for any discussion and cooperation!
+
 ## News
 - *2025.01* Successfully passed PhD Qualifying Examination!
 - *2024.12* Invited as an **Area Chair** of PDLM @ **AAAI 2025**.
@@ -29,21 +43,6 @@ I study machine perception, reasoning, and interaction with the physical world, 
 - *2023.03* One paper accepted to **CVPR 2023**
 
 {% include_relative _includes/projects.md %}
-
-## Mentorship
-I am honored to have mentored the following junior researchers:
-- [Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)](https://qc-ly.github.io/)  
-- [Mengzhen Chi, Ph.D. student @ NEU]()  
-- [Chenfei Liao, M.Phil. student @ HKUST(GZ)](https://scholar.google.com.hk/citations?user=2ZlT5o0AAAAJ&hl=zh-CN&oi=ao)  
-- [Ding Zhong, Master’s student @ Umich](https://scholar.google.com.hk/citations?hl=zh-CN&user=927Gr88AAAAJ)  
-- [Zihao Dongfang, Research Assistant @ HKUST(GZ)]()  
-- [Ziqiao Weng, Undergraduate student @ SCU]()  
-- [Yulong Guo, Master’s student @ ZJU]()  
-- [Kaiyu Lei, Undergraduate student @ XJTU]()  
-- [Junha Moon (문준하), M.Phil. student @ HKUST(GZ)]()
-  
-✉️ Welcome to contact me for any discussion and cooperation!
-
 
 ## Honors and Awards
 - *2023.07* &emsp;**Outstanding Master's Thesis in Liaoning Province / Northeastern University(<1%)**. 
