@@ -8,16 +8,11 @@ I am a Ph.D. candidate in AI Thrust at The Hong Kong University of Science and T
 
 I am a Resident Doctoral Researcher at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/).
 
-Recently, I also collaborate with [Athanasios Vasilakos @ UiA](https://scholar.google.com.hk/citations?hl=zh-CN&user=_yWPQWoAAAAJ&view_op=list_works&sortby=pubdate), [Peng Yuan Zhou @ AU](https://www.au.dk/en/pengyuan.zhou@ece.au.dk), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/).
+Recently, I also collaborate with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/).
 
 Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.google.com.hk/citations?user=SReb2csAAAAJ&hl=zh-CN) and got my B.Eng and M.Eng degrees at Northeastern University under the supervision of [Chong Fu @ NEU](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN).
 
 I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
-
-I also have honors to mentored some junior researchers: 
-[Yuanhuiyi Lyu, PhD student @ HKUST(GZ)](https://qc-ly.github.io/), [Mengzhen Chi, PhD student @ NEU](), [Chenfei Liao, Mphil student @ HKUST(GZ)](https://scholar.google.com.hk/citations?user=2ZlT5o0AAAAJ&hl=zh-CN&oi=ao), [Ding Zhong, Master student @ Umich](https://scholar.google.com.hk/citations?hl=zh-CN&user=927Gr88AAAAJ), [Zihao Dongfang, RA @ @ HKUST(GZ)](), [Ziqiao Weng, Undergraduate student @ SCU](), [Yulong Guo, Master student @ ZJU](), [Kaiyu Lei, Undergraduate student @ XJTU](), [저는문준하 Junha Moon, Mphil student @ HKUST(GZ)](). 
-
-✉️ Welcome to contact me for any discussion and cooperation!
 
 ## News
 - *2025.01* Successfully passed PhD Qualifying Examination!
@@ -34,6 +29,20 @@ I also have honors to mentored some junior researchers:
 - *2023.03* One paper accepted to **CVPR 2023**
 
 {% include_relative _includes/projects.md %}
+
+## Mentorship
+I am honored to have mentored the following junior researchers:
+- [Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)](https://qc-ly.github.io/)  
+- [Mengzhen Chi, Ph.D. student @ NEU]()  
+- [Chenfei Liao, M.Phil. student @ HKUST(GZ)](https://scholar.google.com.hk/citations?user=2ZlT5o0AAAAJ&hl=zh-CN&oi=ao)  
+- [Ding Zhong, Master’s student @ Umich](https://scholar.google.com.hk/citations?hl=zh-CN&user=927Gr88AAAAJ)  
+- [Zihao Dongfang, Research Assistant @ HKUST(GZ)]()  
+- [Ziqiao Weng, Undergraduate student @ SCU]()  
+- [Yulong Guo, Master’s student @ ZJU]()  
+- [Kaiyu Lei, Undergraduate student @ XJTU]()  
+- [Junha Moon (문준하), M.Phil. student @ HKUST(GZ)]()
+  
+✉️ Welcome to contact me for any discussion and cooperation!
 
 
 ## Honors and Awards
