@@ -49,6 +49,8 @@ I am honored to have mentored the following junior students:
 - **[Aug. 2022 ‑ Sep. 2022]**, **Nagoya University**  
   - Summer Programs
 
+---
+
 {% include_relative _includes/services.md %}
 
 ---
