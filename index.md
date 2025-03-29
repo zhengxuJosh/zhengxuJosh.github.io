@@ -45,13 +45,6 @@ I am honored to have mentored the following junior researchers:
 ✉️ Welcome to contact me for any discussion and cooperation!
 
 
-## Honors and Awards
-- *2023.07* &emsp;**Outstanding Master's Thesis in Liaoning Province / Northeastern University(<1%)**. 
-- *2022.09* &emsp;**National Scholoarship of China (<2%)**. 
-- *20-21/22/23.09* &emsp;**First Class Master Scholoarship of Northeastern University (<20%)**. 
-- *2019.06* &emsp;**Outstanding Graduate of Liaoning Province / Northeastern University (<2%)**. 
-
-
 ## Internships and Working Experiences
 
 - **[Feb. 2025 ‑ present]**, Resident Doctoral Researcher, INSAIT, Sofia University
@@ -62,6 +55,13 @@ I am honored to have mentored the following junior researchers:
   - Summer Programs
 
 {% include_relative _includes/services.md %}
+
+
+## Honors and Awards
+- *2023.07* &emsp;**Outstanding Master's Thesis in Liaoning Province / Northeastern University(<1%)**. 
+- *2022.09* &emsp;**National Scholoarship of China (<2%)**. 
+- *20-21/22/23.09* &emsp;**First Class Master Scholoarship of Northeastern University (<20%)**. 
+- *2019.06* &emsp;**Outstanding Graduate of Liaoning Province / Northeastern University (<2%)**. 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
