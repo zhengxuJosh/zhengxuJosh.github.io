@@ -60,6 +60,9 @@
   <h3>News</h3>
   <div class="news-container">
     <div class="news-item">
+      <div class="news-date">2025.02: Visit INSAIT as a Resident Doctoral Researcher!</div>
+    </div>
+    <div class="news-item">
       <div class="news-date">2025.01: Successfully passed PhD Qualifying Examination!</div>
     </div>
     <div class="news-item">
