@@ -15,12 +15,11 @@ Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.googl
 I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
 
 
-<!DOCTYPE html>
+## News 
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>News Scroll</title>
   <style>
     /* 容器样式 */
     .news-container {
