@@ -41,8 +41,7 @@ I am honored to have mentored the following junior researchers:
 - *2024.02* Two papers accepted to **ICRA 2024**
 - *2023.07* Two papers accepted to **ICCV 2023**
 - *2023.03* One paper accepted to **CVPR 2023**
-
-{% include_relative _includes/projects.md %}
+  
 
 ## Honors and Awards
 - *2023.07* &emsp;**Outstanding Master's Thesis in Liaoning Province / Northeastern University(<1%)**. 
