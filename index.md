@@ -17,7 +17,7 @@ I study **machine perception, reasoning**, and **interaction** with the physical
 
 ---
 
-{% include_relative _includes/news.md %}
+{% include_relative _includes/projects.md %}
 
 ---
 
