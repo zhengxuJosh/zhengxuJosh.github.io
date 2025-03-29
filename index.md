@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+{% include_relative _includes/news.md %}
+
 ## About Me
 I am a Ph.D. candidate in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). 
 
