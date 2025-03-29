@@ -20,25 +20,43 @@ I study machine perception, reasoning, and interaction with the physical world, 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
+<style>
   /* 容器样式 */
   .news-container {
     width: 100%;
     max-height: 200px; /* 可以根据需要调整窗口的高度 */
     overflow-y: auto;  /* 垂直滚动 */
-    border: 1px solid #ccc; /* 可选边框样式 */
-    padding: 10px;
+    border: 1px solid #ddd; /* 淡灰色的边框 */
+    border-radius: 10px;  /* 圆角边框 */
+    padding: 15px;
     font-family: inherit; /* 确保继承外部字体 */
     font-size: inherit;   /* 确保字体大小一致 */
     line-height: 1.5;     /* 设置行高，确保行间距适当 */
+    background-color: #f9f9f9;  /* 背景色 */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* 轻微阴影效果 */
+    transition: all 0.3s ease;  /* 添加平滑的过渡效果 */
+  }
+
+  /* 鼠标悬停时的效果 */
+  .news-container:hover {
+    border-color: #007bff; /* 当鼠标悬停时，边框颜色变为蓝色 */
+    box-shadow: 0px 4px 15px rgba(0, 123, 255, 0.2); /* 增加阴影 */
   }
 
   /* 新闻条目的样式 */
   .news-item {
     margin-bottom: 10px;
-    padding: 5px;
-    background-color: #f9f9f9;
-    border-left: 5px solid #007bff; /* 可选的左侧条纹 */
+    padding: 8px;
+    background-color: #ffffff; /* 白色背景 */
+    border-left: 5px solid #007bff; /* 左侧蓝色条纹 */
+    border-radius: 5px; /* 圆角效果 */
+    transition: all 0.3s ease;  /* 为每条新闻添加过渡效果 */
+  }
+
+  /* 鼠标悬停时的新闻条目效果 */
+  .news-item:hover {
+    background-color: #f0f8ff; /* 背景变为浅蓝色 */
+    transform: translateX(5px); /* 向右轻微偏移 */
   }
 
   /* 日期样式 */
@@ -50,8 +68,10 @@ I study machine perception, reasoning, and interaction with the physical world, 
   /* 设置标题样式 */
   h3 {
     font-size: 18px;
+    color: #333;
   }
 </style>
+
 </head>
 <body>
 
