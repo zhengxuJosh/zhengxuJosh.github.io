@@ -164,22 +164,5 @@
       </div>
     </li>
 
-    <!-- Publication 10 -->
-    <li>
-      <div class="pub-row">
-        <div class="col-sm-3 abbr">
-          <abbr class="badge">CIBM 2022</abbr>
-        </div>
-        <div class="col-sm-9">
-          <div class="title"><a href="#">Uncertainty-aware deep co-training for semi-supervised medical image segmentation</a></div>
-          <div class="author"><strong>Xu Zheng</strong>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham</div>
-          <div class="periodical"><em>Computers in Biology and Medicine</em></div>
-          <div class="links">
-            <a href="#" class="btn btn-sm">Homepage</a>
-            <a href="#" class="btn btn-sm">PDF</a>
-          </div>
-        </div>
-      </div>
-    </li>
   </ol>
 </div>
