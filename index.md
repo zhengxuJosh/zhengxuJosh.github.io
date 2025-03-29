@@ -21,35 +21,37 @@ I study machine perception, reasoning, and interaction with the physical world, 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    /* 容器样式 */
-    .news-container {
-      width: 100%;
-      max-height: 200px; /* 可以根据需要调整窗口的高度 */
-      overflow-y: auto;  /* 垂直滚动 */
-      border: 1px solid #ccc; /* 可选边框样式 */
-      padding: 10px;
-      font-family: Arial, sans-serif;
-    }
+  /* 容器样式 */
+  .news-container {
+    width: 100%;
+    max-height: 200px; /* 可以根据需要调整窗口的高度 */
+    overflow-y: auto;  /* 垂直滚动 */
+    border: 1px solid #ccc; /* 可选边框样式 */
+    padding: 10px;
+    font-family: inherit; /* 确保继承外部字体 */
+    font-size: inherit;   /* 确保字体大小一致 */
+    line-height: 1.5;     /* 设置行高，确保行间距适当 */
+  }
 
-    /* 新闻条目的样式 */
-    .news-item {
-      margin-bottom: 10px;
-      padding: 5px;
-      background-color: #f9f9f9;
-      border-left: 5px solid #007bff; /* 可选的左侧条纹 */
-    }
+  /* 新闻条目的样式 */
+  .news-item {
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #f9f9f9;
+    border-left: 5px solid #007bff; /* 可选的左侧条纹 */
+  }
 
-    /* 日期样式 */
-    .news-date {
-      font-style: italic;
-      color: #555;
-    }
+  /* 日期样式 */
+  .news-date {
+    font-style: italic;
+    color: #555;
+  }
 
-    /* 设置标题样式 */
-    h3 {
-      font-size: 18px;
-    }
-  </style>
+  /* 设置标题样式 */
+  h3 {
+    font-size: 18px;
+  }
+</style>
 </head>
 <body>
 
@@ -110,7 +112,7 @@ I study machine perception, reasoning, and interaction with the physical world, 
 
   
 ## Mentorship
-I am honored to have mentored the following junior researchers:
+I am honored to have mentored the following junior students:
 - [Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)](https://qc-ly.github.io/)  
 - [Mengzhen Chi, Ph.D. student @ NEU]()  
 - [Chenfei Liao, M.Phil. student @ HKUST(GZ)](https://scholar.google.com.hk/citations?user=2ZlT5o0AAAAJ&hl=zh-CN&oi=ao)  
