@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+## Selected Publications
 
 - **TPAMI 2024**: 360sfuda++: Towards source-free uda for panoramic segmentation by learning reliable category prototypes.
 - **PR 2025**: Distilling efficient vision transformers from cnns for semantic segmentation.
