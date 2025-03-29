@@ -17,6 +17,10 @@ I study **machine perception, reasoning**, and **interaction** with the physical
 
 ---
 
+{% include_relative _includes/news.md %}
+
+---
+
 ## Mentorship
 I am honored to have mentored the following junior students:
 
