@@ -58,52 +58,40 @@ I study machine perception, reasoning, and interaction with the physical world, 
   <h3>News</h3>
   <div class="news-container">
     <div class="news-item">
-      <div class="news-date">2025.01</div>
-      <div>Successfully passed PhD Qualifying Examination!</div>
+      <div class="news-date">2025.01: Successfully passed PhD Qualifying Examination!</div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.12</div>
-      <div>Invited as an <strong>Area Chair</strong> of PDLM @ <strong>AAAI 2025</strong>.</div>
+      <div class="news-date">2024.12: Invited as an <strong>Area Chair</strong> of PDLM @ <strong>AAAI 2025</strong>.</div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.10</div>
-      <div>One paper accepted to <strong>IEEE TPAMI</strong></div>
+      <div class="news-date">2024.10: One paper accepted to <strong>IEEE TPAMI</strong></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.10</div>
-      <div>Oral presentation @ <strong>ECCV 2024</strong> Oral Session 5A: Segmentation <a href="https://eccv.ecva.net/virtual/2024/session/103" target="_blank">[video]</a></div>
+      <div class="news-date">2024.10: Oral presentation @ <strong>ECCV 2024</strong> Oral Session 5A: Segmentation <a href="https://eccv.ecva.net/virtual/2024/session/103" target="_blank">[video]</a></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.09</div>
-      <div>One paper accepted to <strong>Pattern Recognition</strong></div>
+      <div class="news-date">2024.09: One paper accepted to <strong>Pattern Recognition</strong></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.07</div>
-      <div>Three papers (one <strong>Oral (1.5%)</strong>) accepted to <strong>ECCV 2024</strong></div>
+      <div class="news-date">2024.07: Three papers (one <strong>Oral (1.5%)</strong>) accepted to <strong>ECCV 2024</strong></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.03</div>
-      <div>One paper accepted to <strong>IEEE CAI 2024</strong></div>
+      <div class="news-date">2024.03: One paper accepted to <strong>IEEE CAI 2024</strong></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.03</div>
-      <div>One paper accepted to <strong>Pattern Recognition</strong></div>
+      <div class="news-date">2024.03: One paper accepted to <strong>Pattern Recognition</strong></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.03</div>
-      <div>Five papers (one <strong>Highlight (2.8%)</strong>) accepted to <strong>CVPR 2024</strong></div>
+      <div class="news-date">2024.03: Five papers (one <strong>Highlight (2.8%)</strong>) accepted to <strong>CVPR 2024</strong></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2024.02</div>
-      <div>Two papers accepted to <strong>ICRA 2024</strong></div>
+      <div class="news-date">2024.02: Two papers accepted to <strong>ICRA 2024</strong></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2023.07</div>
-      <div>Two papers accepted to <strong>ICCV 2023</strong></div>
+      <div class="news-date">2023.07: Two papers accepted to <strong>ICCV 2023</strong></div>
     </div>
     <div class="news-item">
-      <div class="news-date">2023.03</div>
-      <div>One paper accepted to <strong>CVPR 2023</strong></div>
+      <div class="news-date">2023.03: One paper accepted to <strong>CVPR 2023</strong></div>
     </div>
   </div>
 
