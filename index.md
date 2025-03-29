@@ -15,19 +15,99 @@ Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.googl
 I study machine perception, reasoning, and interaction with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on unfied multi-modal Learning and advanced sensing & perception techniques. 
 
 
-## News
-- *2025.01* Successfully passed PhD Qualifying Examination!
-- *2024.12* Invited as an **Area Chair** of PDLM @ **AAAI 2025**.
-- *2024.10* One paper accepted to **IEEE TPAMI**
-- *2024.10* Oral presentation @ **ECCV 2024 Oral Session 5A: Segmentation** [(video)](https://eccv.ecva.net/virtual/2024/session/103)
-- *2024.09* One paper accepted to **Pattern Recognition**
-- *2024.07* Three papers (one **Oral (1.5%)**) accepted to **ECCV 2024**
-- *2024.03* One paper accepted to **IEEE CAI 2024**
-- *2024.03* One paper accepted to **Pattern Recognition**
-- *2024.03* Five papers (one **Highlight (2.8%)**) accepted to **CVPR 2024**
-- *2024.02* Two papers accepted to **ICRA 2024**
-- *2023.07* Two papers accepted to **ICCV 2023**
-- *2023.03* One paper accepted to **CVPR 2023**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Scroll</title>
+  <style>
+    /* 容器样式 */
+    .news-container {
+      width: 100%;
+      max-height: 200px; /* 可以根据需要调整窗口的高度 */
+      overflow-y: auto;  /* 垂直滚动 */
+      border: 1px solid #ccc; /* 可选边框样式 */
+      padding: 10px;
+      font-family: Arial, sans-serif;
+    }
+
+    /* 新闻条目的样式 */
+    .news-item {
+      margin-bottom: 10px;
+      padding: 5px;
+      background-color: #f9f9f9;
+      border-left: 5px solid #007bff; /* 可选的左侧条纹 */
+    }
+
+    /* 日期样式 */
+    .news-date {
+      font-style: italic;
+      color: #555;
+    }
+
+    /* 设置标题样式 */
+    h3 {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+  <h3>News</h3>
+  <div class="news-container">
+    <div class="news-item">
+      <div class="news-date">2025.01</div>
+      <div>Successfully passed PhD Qualifying Examination!</div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.12</div>
+      <div>Invited as an <strong>Area Chair</strong> of PDLM @ <strong>AAAI 2025</strong>.</div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.10</div>
+      <div>One paper accepted to <strong>IEEE TPAMI</strong></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.10</div>
+      <div>Oral presentation @ <strong>ECCV 2024</strong> Oral Session 5A: Segmentation <a href="https://eccv.ecva.net/virtual/2024/session/103" target="_blank">[video]</a></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.09</div>
+      <div>One paper accepted to <strong>Pattern Recognition</strong></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.07</div>
+      <div>Three papers (one <strong>Oral (1.5%)</strong>) accepted to <strong>ECCV 2024</strong></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.03</div>
+      <div>One paper accepted to <strong>IEEE CAI 2024</strong></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.03</div>
+      <div>One paper accepted to <strong>Pattern Recognition</strong></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.03</div>
+      <div>Five papers (one <strong>Highlight (2.8%)</strong>) accepted to <strong>CVPR 2024</strong></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2024.02</div>
+      <div>Two papers accepted to <strong>ICRA 2024</strong></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2023.07</div>
+      <div>Two papers accepted to <strong>ICCV 2023</strong></div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">2023.03</div>
+      <div>One paper accepted to <strong>CVPR 2023</strong></div>
+    </div>
+  </div>
+
+</body>
+</html>
 
   
 ## Mentorship
