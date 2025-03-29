@@ -52,6 +52,8 @@ I am honored to have mentored the following junior researchers:
 
 ## Internships and Working Experiences
 
+- **[Feb. 2025 ‑ present]**, Resident Doctoral Researcher, INSAIT, Sofia University
+  - Supervisor: Luc Van Gool, Danda Paudel
 - **[Oct. 2021 ‑ Oct. 2024]**, Reaserch Assistant, VLISLAB, HKUST
   - Supervisor: Addison Lin Wang
 - **[Aug. 2022 ‑ Sep. 2022]**, Nagoya Unversity
