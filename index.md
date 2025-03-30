@@ -2,20 +2,14 @@
 layout: homepage
 ---
 
-{% include_relative _includes/news.md %}
+## About Me
+I am a Ph.D. candidate in AI Thrust at **The Hong Kong University of Science and Technology**, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I am a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). Recently, I also collaborate with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/). Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.google.com.hk/citations?user=SReb2csAAAAJ&hl=zh-CN) and got my **B.Eng** and **M.Eng** degrees at **Northeastern University** under the supervision of [Chong Fu @ NEU](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN).
+
+I study **machine perception, reasoning**, and **interaction** with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on **multi-modal large models** and **advanced sensing & perception techniques**.
 
 ---
 
-## About Me
-I am a Ph.D. candidate in AI Thrust at **The Hong Kong University of Science and Technology**, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/).
-
-I am a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/).
-
-Recently, I also collaborate with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/).
-
-Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.google.com.hk/citations?user=SReb2csAAAAJ&hl=zh-CN) and got my **B.Eng** and **M.Eng** degrees at **Northeastern University** under the supervision of [Chong Fu @ NEU](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN).
-
-I study **machine perception, reasoning**, and **interaction** with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on **unified multi-modal learning** and **advanced sensing & perception techniques**.
+{% include_relative _includes/news.md %}
 
 ---
 
