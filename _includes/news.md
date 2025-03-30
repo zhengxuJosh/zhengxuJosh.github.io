@@ -75,7 +75,7 @@
   <h3>News</h3>
   <div class="news-container">
     <div class="news-item">
-      <div class="news-date">2025.02: Visit INSAIT as a Resident Doctoral Researcher!</div>
+      <div class="news-date">2025.02: Visit INSAIT as a Resident Doctoral Researcher! [Linkin](https://www.linkedin.com/posts/insaitinstitute_insait-ai-computervision-activity-7297518558874406912-c9PO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD3sQBGae5cdlTD6ToV59qsKz7e_q4uk8)</div>
     </div>
     <div class="news-item">
       <div class="news-date">2025.01: Successfully passed PhD Qualifying Examination!</div>
