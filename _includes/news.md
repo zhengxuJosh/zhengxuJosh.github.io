@@ -6,57 +6,56 @@
     /* 容器样式 */
     .news-container {
       width: 100%;
-      max-height: 300px; /* 增加高度以便显示更多内容 */
+      max-height: 250px; /* 减少容器的高度 */
       overflow-y: auto;
-      border: 1px solid #e0e0e0; /* 更浅的灰色边框 */
-      border-radius: 15px;  /* 增加圆角效果 */
-      padding: 20px;
-      font-family: 'Arial', sans-serif; /* 更现代的字体 */
-      font-size: 16px; /* 更大的字体以提高可读性 */
-      line-height: 1.8; /* 增加行高使文本更易读 */
-      background-color: #ffffff; /* 背景色改为白色 */
-      box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.1); /* 更强的阴影效果 */
-      transition: all 0.3s ease;
+      border: 1px solid #e0e0e0;
+      border-radius: 10px;  /* 圆角效果 */
+      padding: 10px;  /* 减小内边距 */
+      font-family: 'Arial', sans-serif;
+      font-size: 14px; /* 减小字体大小 */
+      line-height: 1.4; /* 减小行高 */
+      background-color: #ffffff;
+      box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     }
 
     /* 鼠标悬停时的效果 */
     .news-container:hover {
-      border-color: #007bff; /* 蓝色边框 */
-      box-shadow: 0px 6px 25px rgba(0, 123, 255, 0.2); /* 蓝色阴影 */
+      border-color: #007bff;
+      box-shadow: 0px 4px 15px rgba(0, 123, 255, 0.2);
     }
 
     /* 新闻条目的样式 */
     .news-item {
-      margin-bottom: 15px;
-      padding: 15px;
-      background-color: #f9f9f9; /* 微淡灰背景 */
-      border-left: 6px solid #007bff; /* 更粗的蓝色左边框 */
-      border-radius: 8px; /* 更圆的边角 */
+      margin-bottom: 8px;  /* 减少条目之间的间距 */
+      padding: 8px;  /* 减小内边距 */
+      background-color: #f9f9f9;
+      border-left: 4px solid #007bff; /* 较细的蓝色左边框 */
+      border-radius: 6px; /* 较圆的边角 */
       transition: all 0.3s ease;
-      cursor: pointer; /* 鼠标指针效果 */
+      cursor: pointer;
     }
 
     /* 鼠标悬停时的新闻条目效果 */
     .news-item:hover {
-      background-color: #e3f2fd; /* 浅蓝色背景 */
-      transform: translateX(8px); /* 稍微的右移效果 */
+      background-color: #e3f2fd;
+      transform: translateX(4px); /* 轻微的右移效果 */
     }
 
     /* 日期样式 */
     .news-date {
       font-style: italic;
       color: #555;
-      font-size: 14px;
+      font-size: 12px; /* 更小的日期字体 */
     }
 
     /* 标题样式 */
     h3 {
-      font-size: 24px;
+      font-size: 20px;
       color: #333;
       font-weight: bold;
-      margin-bottom: 20px;
-      text-transform: uppercase; /* 大写字母 */
-      letter-spacing: 1px; /* 字母间距 */
+      margin-bottom: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
     }
 
     /* 链接样式 */
@@ -67,7 +66,7 @@
     }
 
     a:hover {
-      color: #0056b3; /* 悬停时的蓝色 */
+      color: #0056b3;
     }
   </style>
 </head>
