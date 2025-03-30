@@ -19,7 +19,7 @@
     .publication-list {
       display: flex;
       gap: 40px;  /* 项目之间的间距 */
-      align-items: center;
+      align-items: flex-start;  /* 上端对齐 */
       flex-wrap: nowrap;  /* 防止换行 */
     }
 
