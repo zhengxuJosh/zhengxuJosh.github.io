@@ -2,58 +2,74 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  /* 容器样式 */
-  .news-container {
-    width: 100%;
-    max-height: 200px; /* 可以根据需要调整窗口的高度 */
-    overflow-y: auto;  /* 垂直滚动 */
-    border: 1px solid #ddd; /* 淡灰色的边框 */
-    border-radius: 10px;  /* 圆角边框 */
-    padding: 15px;
-    font-family: inherit; /* 确保继承外部字体 */
-    font-size: inherit;   /* 确保字体大小一致 */
-    line-height: 1.5;     /* 设置行高，确保行间距适当 */
-    background-color: #f9f9f9;  /* 背景色 */
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* 轻微阴影效果 */
-    transition: all 0.3s ease;  /* 添加平滑的过渡效果 */
-  }
+  <style>
+    /* 容器样式 */
+    .news-container {
+      width: 100%;
+      max-height: 300px; /* 增加高度以便显示更多内容 */
+      overflow-y: auto;
+      border: 1px solid #e0e0e0; /* 更浅的灰色边框 */
+      border-radius: 15px;  /* 增加圆角效果 */
+      padding: 20px;
+      font-family: 'Arial', sans-serif; /* 更现代的字体 */
+      font-size: 16px; /* 更大的字体以提高可读性 */
+      line-height: 1.8; /* 增加行高使文本更易读 */
+      background-color: #ffffff; /* 背景色改为白色 */
+      box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.1); /* 更强的阴影效果 */
+      transition: all 0.3s ease;
+    }
 
-  /* 鼠标悬停时的效果 */
-  .news-container:hover {
-    border-color: #007bff; /* 当鼠标悬停时，边框颜色变为蓝色 */
-    box-shadow: 0px 4px 15px rgba(0, 123, 255, 0.2); /* 增加阴影 */
-  }
+    /* 鼠标悬停时的效果 */
+    .news-container:hover {
+      border-color: #007bff; /* 蓝色边框 */
+      box-shadow: 0px 6px 25px rgba(0, 123, 255, 0.2); /* 蓝色阴影 */
+    }
 
-  /* 新闻条目的样式 */
-  .news-item {
-    margin-bottom: 10px;
-    padding: 8px;
-    background-color: #ffffff; /* 白色背景 */
-    border-left: 5px solid #007bff; /* 左侧蓝色条纹 */
-    border-radius: 5px; /* 圆角效果 */
-    transition: all 0.3s ease;  /* 为每条新闻添加过渡效果 */
-  }
+    /* 新闻条目的样式 */
+    .news-item {
+      margin-bottom: 15px;
+      padding: 15px;
+      background-color: #f9f9f9; /* 微淡灰背景 */
+      border-left: 6px solid #007bff; /* 更粗的蓝色左边框 */
+      border-radius: 8px; /* 更圆的边角 */
+      transition: all 0.3s ease;
+      cursor: pointer; /* 鼠标指针效果 */
+    }
 
-  /* 鼠标悬停时的新闻条目效果 */
-  .news-item:hover {
-    background-color: #f0f8ff; /* 背景变为浅蓝色 */
-    transform: translateX(5px); /* 向右轻微偏移 */
-  }
+    /* 鼠标悬停时的新闻条目效果 */
+    .news-item:hover {
+      background-color: #e3f2fd; /* 浅蓝色背景 */
+      transform: translateX(8px); /* 稍微的右移效果 */
+    }
 
-  /* 日期样式 */
-  .news-date {
-    font-style: italic;
-    color: #555;
-  }
+    /* 日期样式 */
+    .news-date {
+      font-style: italic;
+      color: #555;
+      font-size: 14px;
+    }
 
-  /* 设置标题样式 */
-  h3 {
-    font-size: 18px;
-    color: #333;
-  }
-</style>
+    /* 标题样式 */
+    h3 {
+      font-size: 24px;
+      color: #333;
+      font-weight: bold;
+      margin-bottom: 20px;
+      text-transform: uppercase; /* 大写字母 */
+      letter-spacing: 1px; /* 字母间距 */
+    }
 
+    /* 链接样式 */
+    a {
+      color: #007bff;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    a:hover {
+      color: #0056b3; /* 悬停时的蓝色 */
+    }
+  </style>
 </head>
 <body>
 
