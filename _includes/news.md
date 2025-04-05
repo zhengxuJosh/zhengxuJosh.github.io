@@ -75,9 +75,17 @@
   <h3>News</h3>
   <div class="news-container">
     <div class="news-item">
+  <div class="news-date">
+    2025.04: Our MMSS robustness benchmark is accepted to CVPR 2025 @ TMM Open-World!
+    <span>
+      <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark">Code</a> and 
+      <a href="https://arxiv.org/pdf/2503.18445">Paper</a> are available!
+    </span>
+  </div>
+</div>
+    <div class="news-item">
       <div class="news-date">
   2025.02: Visit INSAIT as a Resident Doctoral Researcher! <a href="https://www.linkedin.com/posts/insaitinstitute_insait-ai-computervision-activity-7297518558874406912-c9PO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD3sQBGae5cdlTD6ToV59qsKz7e_q4uk8" target="_blank">Linkin</a>
-    </div>
     </div>
     <div class="news-item">
       <div class="news-date">2025.01: Successfully passed PhD Qualifying Examination!</div>
