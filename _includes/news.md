@@ -6,64 +6,65 @@
     /* Container styles */
     .news-container {
       width: 100%;
-      max-height: 400px;
+      max-height: 200px; /* 高度减半 */
       overflow-y: auto;
       border: 1px solid #e0e0e0;
-      border-radius: 12px;
-      padding: 10px;  /* 减少内边距 */
+      border-radius: 8px; /* 圆角减小 */
+      padding: 6px; /* 内边距减小 */
       font-family: 'Arial', sans-serif;
-      font-size: 14px;
-      line-height: 1.4;  /* 减少行高 */
+      font-size: 13px; /* 字体缩小 */
+      line-height: 1.3; /* 行高减小 */
       background-color: #fafafa;
-      box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+      box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1); /* 阴影减小 */
     }
 
     /* Hover effect for container */
     .news-container:hover {
       border-color: #007bff;
-      box-shadow: 0px 4px 15px rgba(0, 123, 255, 0.2);
+      box-shadow: 0px 2px 8px rgba(0, 123, 255, 0.2);
     }
 
     /* News item styles */
     .news-item {
-      margin-bottom: 8px;  /* 减少下边距 */
-      padding: 8px;  /* 减少内边距 */
+      margin-bottom: 4px; /* 间距大幅减小 */
+      padding: 5px; /* 内边距减小 */
       background-color: #ffffff;
-      border-left: 4px solid #007bff;  /* 缩小边框 */
-      border-radius: 6px;
-      transition: all 0.3s ease;
+      border-left: 3px solid #007bff; /* 边框减小 */
+      border-radius: 4px; /* 圆角减小 */
+      transition: all 0.2s ease; /* 过渡时间缩短 */
       cursor: pointer;
     }
 
     /* Hover effect for news item */
     .news-item:hover {
       background-color: #e0f7fa;
-      transform: translateX(5px);
+      transform: translateX(3px); /* 移动距离减小 */
     }
 
     /* Date styling */
     .news-date {
       font-style: italic;
       color: #555;
-      font-size: 13px;
-      margin-bottom: 5px;  /* 减少下边距 */
+      font-size: 12px; /* 字体缩小 */
+      margin-bottom: 3px; /* 下边距减小 */
     }
 
     /* Header styles */
     h3 {
-      font-size: 20px;  /* 缩小字体 */
+      font-size: 16px; /* 标题缩小 */
       color: #333;
       font-weight: bold;
-      margin-bottom: 12px;  /* 减少下边距 */
+      margin-bottom: 8px; /* 下边距减小 */
       text-transform: uppercase;
-      letter-spacing: 0.5px;  /* 减少字间距 */
+      letter-spacing: 0.3px; /* 字间距减小 */
     }
 
     /* Link styles */
     a {
       color: #007bff;
       text-decoration: none;
-      transition: color 0.2s ease;
+      transition: color 0.15s ease; /* 过渡时间缩短 */
+      font-size: 12px; /* 链接字体缩小 */
     }
 
     a:hover {
