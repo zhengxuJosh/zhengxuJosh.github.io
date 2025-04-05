@@ -79,8 +79,8 @@
       <div class="news-date">
         2025.04: MMSS robustness benchmark accepted to CVPR 2025 @ TMM Open-World!
         <span>
-          <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">Code</a> and 
-          <a href="https://arxiv.org/pdf/2503.18445" target="_blank">Paper</a>
+          <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">code</a> and 
+          <a href="https://arxiv.org/pdf/2503.18445" target="_blank">paper</a>
         </span>
       </div>
     </div>
@@ -102,6 +102,7 @@
 
     <div class="news-item">
       <div class="news-date">2024.10: One paper accepted to <strong>IEEE TPAMI</strong></div>
+        <a href="[https://eccv.ecva.net/virtual/2024/session/103](https://ieeexplore.ieee.org/abstract/document/10741594)" target="_blank">[paper]</a>
     </div>
 
     <div class="news-item">
