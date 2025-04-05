@@ -10,10 +10,10 @@
       overflow-y: auto;
       border: 1px solid #e0e0e0;
       border-radius: 12px;
-      padding: 15px;
+      padding: 10px;  /* 减少内边距 */
       font-family: 'Arial', sans-serif;
       font-size: 14px;
-      line-height: 1.6;
+      line-height: 1.4;  /* 减少行高 */
       background-color: #fafafa;
       box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     }
@@ -26,11 +26,11 @@
 
     /* News item styles */
     .news-item {
-      margin-bottom: 12px;
-      padding: 12px;
+      margin-bottom: 8px;  /* 减少下边距 */
+      padding: 8px;  /* 减少内边距 */
       background-color: #ffffff;
-      border-left: 6px solid #007bff;
-      border-radius: 8px;
+      border-left: 4px solid #007bff;  /* 缩小边框 */
+      border-radius: 6px;
       transition: all 0.3s ease;
       cursor: pointer;
     }
@@ -46,17 +46,17 @@
       font-style: italic;
       color: #555;
       font-size: 13px;
-      margin-bottom: 8px;
+      margin-bottom: 5px;  /* 减少下边距 */
     }
 
     /* Header styles */
     h3 {
-      font-size: 22px;
+      font-size: 20px;  /* 缩小字体 */
       color: #333;
       font-weight: bold;
-      margin-bottom: 20px;
+      margin-bottom: 12px;  /* 减少下边距 */
       text-transform: uppercase;
-      letter-spacing: 1px;
+      letter-spacing: 0.5px;  /* 减少字间距 */
     }
 
     /* Link styles */
@@ -102,7 +102,6 @@
 
     <div class="news-item">
       <div class="news-date">2024.10: One paper accepted to <strong>IEEE TPAMI</strong></div>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10741594" target="_blank">[paper]</a>
     </div>
 
     <div class="news-item">
