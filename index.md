@@ -32,6 +32,10 @@ I am honored to have mentored the following researchers:
 
 ---
 
+{% include_relative _includes/projects.md %}
+
+---
+
 ## Internships and Working Experiences
 
 - **[Feb. 2025 ‑ present]**, **Resident Doctoral Researcher**, INSAIT, Sofia University  
@@ -40,10 +44,6 @@ I am honored to have mentored the following researchers:
   - Supervisor: Addison Lin Wang
 - **[Aug. 2022 ‑ Sep. 2022]**, **Nagoya University**  
   - Summer Programs
-
----
-
-{% include_relative _includes/projects.md %}
 
 ---
 
