@@ -101,8 +101,7 @@
     </div>
 
     <div class="news-item">
-      <div class="news-date">2024.10: One paper accepted to <strong>IEEE TPAMI</strong></div>
-        <a href="[https://eccv.ecva.net/virtual/2024/session/103](https://ieeexplore.ieee.org/abstract/document/10741594)" target="_blank">[paper]</a>
+      <div class="news-date">2024.10: One paper accepted to <strong>IEEE TPAMI</strong></div> <a href="[https://eccv.ecva.net/virtual/2024/session/103](https://ieeexplore.ieee.org/abstract/document/10741594)" target="_blank">[paper]</a>
     </div>
 
     <div class="news-item">
