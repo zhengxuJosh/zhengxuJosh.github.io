@@ -43,6 +43,8 @@ I am honored to have mentored the following junior students:
 
 {% include_relative _includes/projects.md %}
 
+---
+
 {% include_relative _includes/services.md %}
 
 ---
