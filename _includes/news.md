@@ -12,7 +12,7 @@
       border-radius: 8px; /* 圆角减小 */
       padding: 6px; /* 内边距减小 */
       font-family: 'Arial', sans-serif;
-      font-size: 13px; /* 字体缩小 */
+      font-size: 12px; /* 只减小新闻容器内的字体 */
       line-height: 1.3; /* 行高减小 */
       background-color: #fafafa;
       box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1); /* 阴影减小 */
@@ -26,45 +26,44 @@
 
     /* News item styles */
     .news-item {
-      margin-bottom: 4px; /* 间距大幅减小 */
+      margin-bottom: 4px; /* 间距减小 */
       padding: 5px; /* 内边距减小 */
       background-color: #ffffff;
       border-left: 3px solid #007bff; /* 边框减小 */
       border-radius: 4px; /* 圆角减小 */
-      transition: all 0.2s ease; /* 过渡时间缩短 */
+      transition: all 0.2s ease;
       cursor: pointer;
     }
 
     /* Hover effect for news item */
     .news-item:hover {
       background-color: #e0f7fa;
-      transform: translateX(3px); /* 移动距离减小 */
+      transform: translateX(3px);
     }
 
-    /* Date styling */
+    /* Date styling - 继承容器字体大小 */
     .news-date {
       font-style: italic;
       color: #555;
-      font-size: 12px; /* 字体缩小 */
-      margin-bottom: 3px; /* 下边距减小 */
+      margin-bottom: 3px;
     }
 
-    /* Header styles */
+    /* Header styles - 保持原始大小 */
     h3 {
-      font-size: 16px; /* 标题缩小 */
+      font-size: 22px;
       color: #333;
       font-weight: bold;
-      margin-bottom: 8px; /* 下边距减小 */
+      margin-bottom: 12px;
       text-transform: uppercase;
-      letter-spacing: 0.3px; /* 字间距减小 */
+      letter-spacing: 1px;
     }
 
-    /* Link styles */
+    /* Link styles - 保持原始大小 */
     a {
       color: #007bff;
       text-decoration: none;
-      transition: color 0.15s ease; /* 过渡时间缩短 */
-      font-size: 12px; /* 链接字体缩小 */
+      transition: color 0.2s ease;
+      font-size: inherit; /* 继承父元素字体大小 */
     }
 
     a:hover {
