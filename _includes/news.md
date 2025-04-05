@@ -6,14 +6,14 @@
     /* Container styles */
     .news-container {
       width: 100%;
-      max-height: 400px; /* Increased container height */
+      max-height: 400px;
       overflow-y: auto;
       border: 1px solid #e0e0e0;
       border-radius: 12px;
-      padding: 15px; /* Slightly larger padding */
+      padding: 15px;
       font-family: 'Arial', sans-serif;
       font-size: 14px;
-      line-height: 1.6; /* Increased line height */
+      line-height: 1.6;
       background-color: #fafafa;
       box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     }
@@ -58,6 +58,17 @@
       text-transform: uppercase;
       letter-spacing: 1px;
     }
+
+    /* Link styles */
+    a {
+      color: #007bff;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    a:hover {
+      color: #0056b3;
+    }
   </style>
 </head>
 <body>
@@ -67,12 +78,17 @@
     <div class="news-item">
       <div class="news-date">
         2025.04: MMSS robustness benchmark accepted to CVPR 2025 @ TMM Open-World!
+        <span>
+          <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">Code</a> and 
+          <a href="https://arxiv.org/pdf/2503.18445" target="_blank">Paper</a>
+        </span>
       </div>
     </div>
 
     <div class="news-item">
       <div class="news-date">
-        2025.02: Visit INSAIT as a Resident Doctoral Researcher!
+        2025.02: Visit INSAIT as a Resident Doctoral Researcher! 
+        <a href="https://www.linkedin.com/posts/insaitinstitute_insait-ai-computervision-activity-7297518558874406912-c9PO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD3sQBGae5cdlTD6ToV59qsKz7e_q4uk8" target="_blank">LinkedIn</a>
       </div>
     </div>
 
@@ -86,10 +102,13 @@
 
     <div class="news-item">
       <div class="news-date">2024.10: One paper accepted to <strong>IEEE TPAMI</strong></div>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10741594" target="_blank">[paper]</a>
     </div>
 
     <div class="news-item">
-      <div class="news-date">2024.10: Oral presentation @ <strong>ECCV 2024</strong> Oral Session 5A: Segmentation</div>
+      <div class="news-date">2024.10: Oral presentation @ <strong>ECCV 2024</strong> Oral Session 5A: Segmentation 
+        <a href="https://eccv.ecva.net/virtual/2024/session/103" target="_blank">[video]</a>
+      </div>
     </div>
 
     <div class="news-item">
