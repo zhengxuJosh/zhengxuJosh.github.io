@@ -57,31 +57,34 @@
   <div class="scroll-container">
     <div class="publication-list">
       <div class="publication-item">
-        <strong>TPAMI 2024</strong>: 360sfuda++: Towards Source-free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes.
+        <strong>TPAMI 2024</strong>: Xu Zheng, et al., 360sfuda++: Towards Source-free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes.
       </div>
       <div class="publication-item">
-        <strong>PR 2025</strong>: Distilling Efficient Vision Transformers from CNNs for Semantic Segmentation.
+        <strong>PR 2025</strong>: Xu Zheng, et al.,  Distilling Efficient Vision Transformers from CNNs for Semantic Segmentation.
       </div>
       <div class="publication-item">
-        <strong>ECCV 2024 (Oral, 1.5%)</strong>: Learning Modality-Agnostic Representation for Semantic Segmentation.
+        <strong>ECCV 2024 (Oral, 1.5%)</strong>: Xu Zheng, et al.,  Learning Modality-Agnostic Representation for Semantic Segmentation.
       </div>
       <div class="publication-item">
-        <strong>ECCV 2024</strong>: Centering the Value of Every Modality: Towards Efficient and Resilient Modality-Agnostic Semantic Segmentation.
+        <strong>ECCV 2024</strong>: Xu Zheng, et al.,  Centering the Value of Every Modality: Towards Efficient and Resilient Modality-Agnostic Semantic Segmentation.
       </div>
       <div class="publication-item">
-        <strong>CVPR 2024</strong>: EventDance: Unsupervised Source-Free Cross-Modal Adaptation for Event-Based Object Recognition.
+        <strong>CVPR 2024</strong>: Xu Zheng, et al.,  EventDance: Unsupervised Source-Free Cross-Modal Adaptation for Event-Based Object Recognition.
       </div>
       <div class="publication-item">
-        <strong>CVPR 2024</strong>: Semantics, Distortion, and Style Matter: Towards Source-Free UDA for Panoramic Segmentation.
+        <strong>CVPR 2024</strong>: Yuanhuiyi Lyu*, Xu Zheng*, et al., UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All.
       </div>
       <div class="publication-item">
-        <strong>ICRA 2024</strong>: Transformer-CNN Cohort: Semi-Supervised Semantic Segmentation by the Best of Both Students.
+        <strong>CVPR 2024</strong>: Xu Zheng, et al.,  Semantics, Distortion, and Style Matter: Towards Source-Free UDA for Panoramic Segmentation.
       </div>
       <div class="publication-item">
-        <strong>ICCV 2023</strong>: Look at the Neighbor: Distortion-Aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.
+        <strong>ICRA 2024</strong>: Xu Zheng, et al.,  Transformer-CNN Cohort: Semi-Supervised Semantic Segmentation by the Best of Both Students.
       </div>
       <div class="publication-item">
-        <strong>CVPR 2023</strong>: Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.
+        <strong>ICCV 2023</strong>: Xu Zheng, et al.,  Look at the Neighbor: Distortion-Aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.
+      </div>
+      <div class="publication-item">
+        <strong>CVPR 2023</strong>: Xu Zheng, et al.,  Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.
       </div>
     </div>
   </div>
