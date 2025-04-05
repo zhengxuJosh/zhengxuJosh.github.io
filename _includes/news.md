@@ -77,6 +77,16 @@
   <div class="news-container">
     <div class="news-item">
       <div class="news-date">
+        2025.04: The first RAG in CV survey released!
+        <span>
+          <a href="[https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark](https://github.com/zhengxuJosh/Awesome-RAG-Vision)" target="_blank">Code</a> and 
+          <a href="[https://arxiv.org/pdf/2503.18445](https://arxiv.org/pdf/2503.18016)" target="_blank">Paper</a>
+        </span>
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">
         2025.04: MMSS robustness benchmark accepted to CVPR 2025 @ TMM Open-World!
         <span>
           <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">Code</a> and 
