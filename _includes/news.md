@@ -6,15 +6,15 @@
     /* Container styles */
     .news-container {
       width: 100%;
-      max-height: 250px; /* Reduce container height */
+      max-height: 400px; /* Increased container height */
       overflow-y: auto;
       border: 1px solid #e0e0e0;
-      border-radius: 10px;
-      padding: 10px; /* Reduce padding */
+      border-radius: 12px; /* Rounder corners */
+      padding: 15px; /* Slightly larger padding */
       font-family: 'Arial', sans-serif;
       font-size: 14px;
-      line-height: 1.4;
-      background-color: #ffffff;
+      line-height: 1.6; /* Increased line height */
+      background-color: #fafafa;
       box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     }
 
@@ -26,36 +26,37 @@
 
     /* News item styles */
     .news-item {
-      margin-bottom: 8px;
-      padding: 8px;
-      background-color: #f9f9f9;
-      border-left: 4px solid #007bff;
-      border-radius: 6px;
+      margin-bottom: 12px;  /* Increased margin for better spacing */
+      padding: 12px; /* Slightly larger padding */
+      background-color: #ffffff;
+      border-left: 6px solid #007bff; /* Thicker left border */
+      border-radius: 8px; /* Rounder edges */
       transition: all 0.3s ease;
       cursor: pointer;
     }
 
     /* Hover effect for news item */
     .news-item:hover {
-      background-color: #e3f2fd;
-      transform: translateX(4px);
+      background-color: #e0f7fa;
+      transform: translateX(5px); /* Slightly more pronounced effect */
     }
 
     /* Date styling */
     .news-date {
       font-style: italic;
       color: #555;
-      font-size: 12px;
+      font-size: 13px; /* Slightly larger font size for dates */
+      margin-bottom: 8px; /* Added space after the date */
     }
 
     /* Header styles */
     h3 {
-      font-size: 20px;
+      font-size: 22px; /* Increased header size */
       color: #333;
       font-weight: bold;
-      margin-bottom: 12px;
+      margin-bottom: 20px; /* Larger gap after the title */
       text-transform: uppercase;
-      letter-spacing: 0.8px;
+      letter-spacing: 1px;
     }
 
     /* Link styles */
@@ -72,14 +73,14 @@
 </head>
 <body>
 
-  <h3>News</h3>
+  <h3>Latest News</h3>
   <div class="news-container">
     <div class="news-item">
       <div class="news-date">
         2025.04: MMSS robustness benchmark accepted to CVPR 2025 @ TMM Open-World!
         <span>
-          <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark">Code</a> and 
-          <a href="https://arxiv.org/pdf/2503.18445">Paper</a>
+          <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">Code</a> and 
+          <a href="https://arxiv.org/pdf/2503.18445" target="_blank">Paper</a>
         </span>
       </div>
     </div>
