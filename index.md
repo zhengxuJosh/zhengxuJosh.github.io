@@ -13,7 +13,7 @@ I study **machine perception, reasoning**, and **interaction** with the physical
 
 ---
 
-{% include_relative _includes/news.md %}
+{% include_relative _includes/members.md %}
 
 ---
 ✉️ **Welcome to contact me for any discussion and cooperation!**
