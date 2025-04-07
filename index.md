@@ -13,9 +13,23 @@ I study **machine perception, reasoning**, and **interaction** with the physical
 
 ---
 
-{% include_relative _includes/members.md %}
+I have hornered to mentored the following students / researchers:
 
----
+- Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)
+- Mengzhen Chi, Ph.D. student @ NEU
+- Chenfei Liao, M.Phil. student @ HKUST(GZ)
+- Ding Zhong, Master’s student @ Umich
+- Zihao Dongfang, Research Assistant @ HKUST(GZ)
+- Ziqiao Weng, Undergraduate student @ SCU
+- Yulong Guo, Master’s student @ ZJU
+- Kaiyu Lei, Undergraduate student @ XJTU
+- Junha Moon (문준하), M.Phil. student @ HKUST(GZ)
+- Zhenquan Zhang, M.Phil. student @ SCUT
+- Boyuan Zheng, M.Phil. student @TongJi
+- Jiahao Zhang, Research Assistant @ HKUST(GZ)
+- Zhengxuan Jiang, M.Phil. student @ ZJU
+- Leyi Sheng, Undergraduate student @ HKUST(GZ)
+
 ✉️ **Welcome to contact me for any discussion and cooperation!**
 
 ---
