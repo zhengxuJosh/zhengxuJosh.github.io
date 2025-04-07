@@ -50,7 +50,7 @@
 </head>
 <body>
 
-  <h3>Mentees</h3>
+  <h3>Researchers mentored</h3>
   <div class="person-container">
     <div class="person-item">Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)</div>
     <div class="person-item">Mengzhen Chi, Ph.D. student @ NEU</div>
