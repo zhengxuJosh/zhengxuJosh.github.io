@@ -27,6 +27,10 @@ I am honored to have mentored the following researchers:
 - Kaiyu Lei, Undergraduate student @ XJTU
 - Junha Moon (문준하), M.Phil. student @ HKUST(GZ)
 - Zhenquan Zhang, M.Phil. student @ SCUT
+- Boyuan Zheng, M.Phil. student @TongJi
+- Jiahao Zhang, Research Assistant @ HKUST(GZ)
+- Zhengxuan Jiang, M.Phil. student @ ZJU
+- Leyi Sheng, Undergraduate student @ HKUST(GZ)
 
 ✉️ **Welcome to contact me for any discussion and cooperation!**
 
