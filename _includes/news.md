@@ -87,7 +87,7 @@
 
     <div class="news-item">
       <div class="news-date">
-        2025.04: MMSS robustness benchmark accepted to CVPR 2025 @ TMM Open-World as <span style="color: red;">Oral Presentation</span>!
+        2025.04: Our paper accepted to CVPR 2025 @ TMM Open-World as <span style="color: red;">Oral Presentation</span>!
         <span>
           <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">Code</a> and 
           <a href="https://arxiv.org/pdf/2503.18445" target="_blank">Paper</a>
