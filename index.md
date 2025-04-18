@@ -13,7 +13,7 @@ I study **machine perception, reasoning**, and **interaction** with the physical
 
 ---
 
-I have hornered to mentor the following students / researchers:
+I have honored to mentor the following students / researchers:
 
 - Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)
 - Mengzhen Chi, Ph.D. student @ NEU
