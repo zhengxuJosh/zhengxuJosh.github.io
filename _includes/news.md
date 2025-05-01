@@ -77,6 +77,15 @@
   <div class="news-container">
     <div class="news-item">
       <div class="news-date">
+        2025.05: One paper accepted to ICML 2025!
+        <span>
+          <a href="https://arxiv.org/pdf/2502.00848" target="_blank">Paper</a>
+        </span>
+      </div>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">
         2025.04: The first RAG in CV survey released!
         <span>
           <a href="https://github.com/zhengxuJosh/Awesome-RAG-Vision" target="_blank">Code</a> and 
