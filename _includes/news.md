@@ -75,6 +75,16 @@
 
   <h3>Latest News</h3>
   <div class="news-container">
+
+  <div class="news-item">
+      <div class="news-date">
+        2025.05: Two paper accepted to ACL 2025 Findings!
+        <span>
+          <a href="https://arxiv.org/pdf/2502.11051" target="_blank">Paper1</a> <a href="https://arxiv.org/pdf/2412.11936" target="_blank">Paper2</a>
+        </span>
+      </div>
+    </div>
+    
     <div class="news-item">
       <div class="news-date">
         2025.05: One paper accepted to ICML 2025!
