@@ -3,9 +3,13 @@ layout: homepage
 ---
 
 ## About Me
-I am a **Ph.D. candidate** in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I am a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). Recently, I also collaborate with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/). Previously, I worked closely with [Addison Lin Wang @ NTU](https://scholar.google.com.hk/citations?user=SReb2csAAAAJ&hl=zh-CN) and got my **B.Eng** and **M.Eng** degrees at **Northeastern University** under the supervision of [Chong Fu @ NEU](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN).
+I am a **Ph.D. candidate** in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). 
 
-I study **machine perception, reasoning**, and **interaction** with the physical world, drawing inspiration from **human cognition**. Lately, I’ve been focusing on **multi-modal large models** and **advanced sensing & perception techniques**.
+I am a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). 
+
+Recently, I also collaborate with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
+
+I study **machine perception, reasoning**, and **interaction** with the physical world. Lately, I’ve been focusing on **multi-modal learning & large models** and **RAG for Computer Vision**.
 
 ---
 
@@ -15,21 +19,27 @@ I study **machine perception, reasoning**, and **interaction** with the physical
 
 I have honored to mentor the following students / researchers:
 
+Current:
 - Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)
+- Lutao Jiang, Ph.D. student @ HKUST(GZ)
+- Jialei Chen, Ph.D. student @ Nagoya Uni.
 - Mengzhen Chi, Ph.D. student @ NEU
-- Chenfei Liao, M.Phil. student @ HKUST(GZ)
-- Ding Zhong, Master’s student @ Umich
 - Zihao Dongfang, Research Assistant @ HKUST(GZ)
+- Chenfei Liao, M.Phil. student @ HKUST(GZ)
+- Junha Moon (문준하), M.Phil. student @ HKUST(GZ)
 - Ziqiao Weng, Undergraduate student @ SCU
 - Yulong Guo, Master’s student @ ZJU
 - Kaiyu Lei, Undergraduate student @ XJTU
-- Junha Moon (문준하), M.Phil. student @ HKUST(GZ)
 - Zhenquan Zhang, M.Phil. student @ SCUT
 - Boyuan Zheng, M.Phil. student @TongJi
-- Jiahao Zhang, Research Assistant @ HKUST(GZ)
-- Zhengxuan Jiang, M.Phil. student @ ZJU
 - Leyi Sheng, Undergraduate student @ HKUST(GZ)
 
+Past:
+- Ding Zhong, Master’s student @ Umich
+- Zhengxuan Jiang, M.Phil. student @ ZJU
+- Yunhao Luo, Student Researcher @ Georgia Tech
+- Tianbo Pan, Incoming PhD @ NUS
+  
 ✉️ **Welcome to contact me for any discussion and cooperation!**
 
 ---
