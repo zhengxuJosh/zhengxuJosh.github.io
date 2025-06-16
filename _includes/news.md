@@ -75,10 +75,20 @@
 
   <h3>Latest News</h3>
   <div class="news-container">
+
+  <div class="news-item">
+      <div class="news-date">
+        2025.06: Our paper is selected as <span style="color: red; font-weight: bold;">Best Paper</span> at CVPR 2025 @ TMM Open-World!
+        <span>
+          <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">Code</a> and 
+          <a href="https://arxiv.org/pdf/2503.18445" target="_blank">Paper</a>
+        </span>
+      </div>
+    </div>
     
   <div class="news-item">
       <div class="news-date">
-        2025.05: One paper accepted to IROS 2025!
+        2025.06: One paper accepted to IROS 2025!
         <span>
           <a href="https://github.com/iAsakiT3T/SHIFNet" target="_blank">Code</a> and <a href="https://arxiv.org/pdf/2503.02581" target="_blank">Paper</a>
         </span>
