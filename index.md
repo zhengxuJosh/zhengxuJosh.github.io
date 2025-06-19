@@ -3,13 +3,16 @@ layout: homepage
 ---
 
 ## About Me
-I am a **Ph.D. candidate** in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). 
+I am a **Ph.D. candidate** in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I am a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). Recently, I also collaborate with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
 
-I am a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). 
+I study **machine perception, reasoning**, and **interaction** with the physical world. 
 
-Recently, I also collaborate with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
+Recently, my major research interests lie within Multi-modal Learning and Multi-modal Large Language Models:
 
-I study **machine perception, reasoning**, and **interaction** with the physical world. Lately, I’ve been focusing on **multi-modal learning & large models** and **RAG for Computer Vision**.
+- Multi-modal Learning: multi-modal foundation models, representation learning and alignment ...
+- Multi-modal Learge Models: spatial & embodied reasoning, debias and balanced training, retreival-augmented understanding and generation ...
+- Multi-modal in Computer Vision: novel sensors, sensor fusion, scene understanding ...
+- More Applications: adversarial robustness ...
 
 ---
 
