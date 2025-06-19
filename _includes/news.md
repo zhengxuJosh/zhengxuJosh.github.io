@@ -6,7 +6,6 @@
     /* Container styles */
     .news-container {
       width: 100%;
-      max-height: none; /* Removed max-height to avoid scroll */
       border: 1px solid #e0e0e0;
       border-radius: 8px;
       padding: 6px;
@@ -74,7 +73,7 @@
 
   <h3>Latest News</h3>
   <div class="news-container">
-    <!-- Display the first 10 items -->
+    <!-- Display the first 5 items -->
     <div class="news-item">
       <div class="news-date">
         2025.06: Our paper is selected as <span style="color: red; font-weight: bold;">Best Paper</span> at CVPR 2025 @ TMM Open-World!
@@ -122,7 +121,8 @@
       </div>
     </div>
 
-    <div class="news-item">
+    <!-- Hidden items (6th item and beyond) -->
+    <div class="news-item" style="display:none;">
       <div class="news-date">
         2025.04: Our paper accepted to CVPR 2025 @ TMM Open-World as <span style="color: red;">Oral Presentation</span>!
         <span>
@@ -132,34 +132,11 @@
       </div>
     </div>
 
-    <div class="news-item">
+    <div class="news-item" style="display:none;">
       <div class="news-date">
         2025.02: Visit INSAIT as a Resident Doctoral Researcher! 
         <a href="https://www.linkedin.com/posts/insaitinstitute_insait-ai-computervision-activity-7297518558874406912-c9PO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD3sQBGae5cdlTD6ToV59qsKz7e_q4uk8" target="_blank">LinkedIn</a>
       </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">2025.01: Successfully passed PhD Qualifying Examination!</div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">2024.12: Invited as an <strong>Area Chair</strong> of PDLM @ <strong>AAAI 2025</strong>.</div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">2024.10: One paper accepted to <strong>IEEE TPAMI</strong></div>
-    </div>
-
-    <!-- Hidden items (11th item and beyond) -->
-    <div class="news-item" style="display:none;">
-      <div class="news-date">2024.10: Oral presentation @ <strong>ECCV 2024</strong> Oral Session 5A: Segmentation 
-        <a href="https://eccv.ecva.net/virtual/2024/session/103" target="_blank">[video]</a>
-      </div>
-    </div>
-
-    <div class="news-item" style="display:none;">
-      <div class="news-date">2024.09: One paper accepted to <strong>Pattern Recognition</strong></div>
     </div>
 
     <!-- More button -->
