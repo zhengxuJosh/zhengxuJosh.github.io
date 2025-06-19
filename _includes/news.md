@@ -6,8 +6,7 @@
     /* Container styles */
     .news-container {
       width: 100%;
-      max-height: 200px; /* Removed sliding behavior */
-      overflow-y: hidden; /* Hide overflow */
+      max-height: none; /* Removed max-height to avoid scroll */
       border: 1px solid #e0e0e0;
       border-radius: 8px;
       padding: 6px;
@@ -75,6 +74,7 @@
 
   <h3>Latest News</h3>
   <div class="news-container">
+    <!-- Display the first 10 items -->
     <div class="news-item">
       <div class="news-date">
         2025.06: Our paper is selected as <span style="color: red; font-weight: bold;">Best Paper</span> at CVPR 2025 @ TMM Open-World!
@@ -85,9 +85,7 @@
       </div>
     </div>
     
-    <!-- Other news items go here (repeat the same structure) -->
-
-    <div class="news-item" style="display:none;">
+    <div class="news-item">
       <div class="news-date">
         2025.06: One paper accepted to IROS 2025!
         <span>
@@ -95,12 +93,73 @@
         </span>
       </div>
     </div>
+    
+    <div class="news-item">
+      <div class="news-date">
+        2025.05: Two papers accepted to ACL 2025 Findings!
+        <span>
+          <a href="https://arxiv.org/pdf/2502.11051" target="_blank">Paper1</a> and <a href="https://arxiv.org/pdf/2412.11936" target="_blank">Paper2</a>
+        </span>
+      </div>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">
+        2025.05: One paper accepted to ICML 2025!
+        <span>
+          <a href="https://arxiv.org/pdf/2502.00848" target="_blank">Paper</a>
+        </span>
+      </div>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">
+        2025.04: The first RAG in CV survey released!
+        <span>
+          <a href="https://github.com/zhengxuJosh/Awesome-RAG-Vision" target="_blank">Code</a> and 
+          <a href="https://arxiv.org/pdf/2503.18016" target="_blank">Paper</a>
+        </span>
+      </div>
+    </div>
 
-    <!-- Example of the remaining items, each with style="display:none;" to hide them initially -->
+    <div class="news-item">
+      <div class="news-date">
+        2025.04: Our paper accepted to CVPR 2025 @ TMM Open-World as <span style="color: red;">Oral Presentation</span>!
+        <span>
+          <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">Code</a> and 
+          <a href="https://arxiv.org/pdf/2503.18445" target="_blank">Paper</a>
+        </span>
+      </div>
+    </div>
 
-    <!-- More items hidden by default -->
-    <div id="more-news" class="news-item" style="display:none;">
-      <div class="news-date">2025.05: Two papers accepted to ACL 2025 Findings!</div>
+    <div class="news-item">
+      <div class="news-date">
+        2025.02: Visit INSAIT as a Resident Doctoral Researcher! 
+        <a href="https://www.linkedin.com/posts/insaitinstitute_insait-ai-computervision-activity-7297518558874406912-c9PO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD3sQBGae5cdlTD6ToV59qsKz7e_q4uk8" target="_blank">LinkedIn</a>
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">2025.01: Successfully passed PhD Qualifying Examination!</div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">2024.12: Invited as an <strong>Area Chair</strong> of PDLM @ <strong>AAAI 2025</strong>.</div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">2024.10: One paper accepted to <strong>IEEE TPAMI</strong></div>
+    </div>
+
+    <!-- Hidden items (11th item and beyond) -->
+    <div class="news-item" style="display:none;">
+      <div class="news-date">2024.10: Oral presentation @ <strong>ECCV 2024</strong> Oral Session 5A: Segmentation 
+        <a href="https://eccv.ecva.net/virtual/2024/session/103" target="_blank">[video]</a>
+      </div>
+    </div>
+
+    <div class="news-item" style="display:none;">
+      <div class="news-date">2024.09: One paper accepted to <strong>Pattern Recognition</strong></div>
     </div>
 
     <!-- More button -->
@@ -110,15 +169,15 @@
   <script>
     // Toggle the visibility of additional news items
     function toggleMoreNews() {
-      var moreNews = document.querySelectorAll("#more-news");
+      var hiddenItems = document.querySelectorAll(".news-item[style='display:none;']");
       var moreButton = document.getElementById("more-button");
 
-      moreNews.forEach(function(item) {
+      hiddenItems.forEach(function(item) {
         item.style.display = (item.style.display === "none" || item.style.display === "") ? "block" : "none";
       });
 
       // Change the button text to 'Less' when items are visible
-      if (moreNews[0].style.display === "block") {
+      if (hiddenItems[0].style.display === "block") {
         moreButton.innerHTML = "Less";
       } else {
         moreButton.innerHTML = "More";
