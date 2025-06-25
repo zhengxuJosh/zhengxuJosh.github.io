@@ -75,6 +75,7 @@
 
   <h3>Selected Publications</h3>
   <div class="publications-container">
+    
     <div class="publication-item">
       <div class="publication-conference">TPAMI 2024</div>
       Xu Zheng, et al., Reducing unimodal bias in multi-modal semantic segmentation with multi-scale functional entropy regularization.
