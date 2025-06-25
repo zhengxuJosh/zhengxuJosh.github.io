@@ -72,71 +72,67 @@
   </style>
 </head>
 <body>
+<h3>Selected Publications</h3>
+<div class="publications-container">
 
-  <h3>Selected Publications</h3>
-  <div class="publications-container">
-    
-    <div class="publication-item">
-      <div class="publication-conference">ICCV 2025</div>
-      Xu Zheng, et al., Reducing unimodal bias in multi-modal semantic segmentation with multi-scale functional entropy regularization.
-    </div>
-
-    <div class="publications-container">
-    <div class="publication-item">
-      <div class="publication-conference">ICCV 2025</div>
-      Ding Zhong*, Xu Zheng*, et al., Omnisam: Omnidirectional segment anything model for uda in panoramic semantic segmentation.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">TPAMI 2024</div>
-      Xu Zheng, et al., 360sfuda++: Towards Source-free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">PR 2025</div>
-      Xu Zheng, et al., Distilling Efficient Vision Transformers from CNNs for Semantic Segmentation.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">ECCV 2024 (Oral, 1.5%)</div>
-      Xu Zheng, et al., Learning Modality-Agnostic Representation for Semantic Segmentation.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">ECCV 2024</div>
-      Xu Zheng, et al., Centering the Value of Every Modality: Towards Efficient and Resilient Modality-Agnostic Semantic Segmentation.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">CVPR 2024</div>
-      Xu Zheng, et al., EventDance: Unsupervised Source-Free Cross-Modal Adaptation for Event-Based Object Recognition.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">CVPR 2024</div>
-      Yuanhuiyi Lyu*, Xu Zheng*, et al., UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">CVPR 2024</div>
-      Xu Zheng, et al., Semantics, Distortion, and Style Matter: Towards Source-Free UDA for Panoramic Segmentation.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">ICRA 2024</div>
-      Xu Zheng, et al., Transformer-CNN Cohort: Semi-Supervised Semantic Segmentation by the Best of Both Students.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">ICCV 2023</div>
-      Xu Zheng, et al., Look at the Neighbor: Distortion-Aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.
-    </div>
-    
-    <div class="publication-item">
-      <div class="publication-conference">CVPR 2023</div>
-      Xu Zheng, et al., Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.
-    </div>
+  <div class="publication-item">
+    <div class="publication-conference">ICCV 2025</div>
+    Xu Zheng, et al., Reducing unimodal bias in multi-modal semantic segmentation with multi-scale functional entropy regularization.
   </div>
 
-</body>
-</html>
+  <div class="publication-item">
+    <div class="publication-conference">ICCV 2025</div>
+    Ding Zhong*, Xu Zheng*, et al., Omnisam: Omnidirectional segment anything model for uda in panoramic semantic segmentation.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">TPAMI 2024</div>
+    Xu Zheng, et al., 360sfuda++: Towards Source-free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">PR 2025</div>
+    Xu Zheng, et al., Distilling Efficient Vision Transformers from CNNs for Semantic Segmentation.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">ECCV 2024 (Oral, 1.5%)</div>
+    Xu Zheng, et al., Learning Modality-Agnostic Representation for Semantic Segmentation.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">ECCV 2024</div>
+    Xu Zheng, et al., Centering the Value of Every Modality: Towards Efficient and Resilient Modality-Agnostic Semantic Segmentation.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">CVPR 2024</div>
+    Xu Zheng, et al., EventDance: Unsupervised Source-Free Cross-Modal Adaptation for Event-Based Object Recognition.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">CVPR 2024</div>
+    Yuanhuiyi Lyu*, Xu Zheng*, et al., UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">CVPR 2024</div>
+    Xu Zheng, et al., Semantics, Distortion, and Style Matter: Towards Source-Free UDA for Panoramic Segmentation.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">ICRA 2024</div>
+    Xu Zheng, et al., Transformer-CNN Cohort: Semi-Supervised Semantic Segmentation by the Best of Both Students.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">ICCV 2023</div>
+    Xu Zheng, et al., Look at the Neighbor: Distortion-Aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-conference">CVPR 2023</div>
+    Xu Zheng, et al., Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.
+  </div>
+
+</div>
