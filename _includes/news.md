@@ -80,8 +80,8 @@
       <div class="news-date">
         2025.06: Four papers accepted to ICCV 2025!
         <span>
-          <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" target="_blank">Code</a> and 
-          <a href="https://arxiv.org/pdf/2503.18445" target="_blank">Paper</a>
+          <a href="" target="_blank">Code</a> and 
+          <a href="" target="_blank">Paper</a>
         </span>
       </div>
     </div>
