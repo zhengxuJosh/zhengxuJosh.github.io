@@ -35,6 +35,7 @@ Current:
 - Kaiyu Lei, Undergraduate student @ XJTU
 - Zhenquan Zhang, M.Phil. student @ SCUT
 - Boyuan Zheng, M.Phil. student @TongJi
+- Zijie Lin, Master's student @ USTC
 - Leyi Sheng, Undergraduate student @ HKUST(GZ)
 
 Past:
