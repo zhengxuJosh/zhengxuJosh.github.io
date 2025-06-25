@@ -77,6 +77,17 @@
   <div class="publications-container">
     <div class="publication-item">
       <div class="publication-conference">TPAMI 2024</div>
+      Xu Zheng, et al., Reducing unimodal bias in multi-modal semantic segmentation with multi-scale functional entropy regularization.
+    </div>
+
+    <div class="publications-container">
+    <div class="publication-item">
+      <div class="publication-conference">TPAMI 2024</div>
+      Ding Zhong*, Xu Zheng*, et al., Omnisam: Omnidirectional segment anything model for uda in panoramic semantic segmentation.
+    </div>
+    
+    <div class="publication-item">
+      <div class="publication-conference">TPAMI 2024</div>
       Xu Zheng, et al., 360sfuda++: Towards Source-free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes.
     </div>
     
