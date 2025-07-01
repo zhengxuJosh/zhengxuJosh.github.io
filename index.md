@@ -67,11 +67,11 @@ Past:
 ---
 
 ## Honors and Awards
-- *2025.06* &emsp; **🏆 Best Paper, Navigating the Future: Ensuring Trustworthiness in Multi-Modal Open-World Intelligence, CVPR 2025 Workshop**
-- *2023.07* &emsp; **🏆 Outstanding Master's Thesis in Liaoning Province / Northeastern University (<1%)**
-- *2022.09* &emsp; **💰 National Scholarship of China (<2%)**
-- *20-21/22/23.09* &emsp; **💰 First Class Master Scholarship of Northeastern University (<20%)**
-- *2019.06* &emsp; **🏆 Outstanding Graduate of Liaoning Province / Northeastern University (<2%)**
+- *2025.06* &emsp; **🏆Best Paper, Navigating the Future: Ensuring Trustworthiness in Multi-Modal Open-World Intelligence, CVPR 2025 Workshop**
+- *2023.07* &emsp; **🏆Outstanding Master's Thesis in Liaoning Province / Northeastern University (<1%)**
+- *2022.09* &emsp; **💰National Scholarship of China (<2%)**
+- *20-21/22/23.09* &emsp; **💰First Class Master Scholarship of Northeastern University (<20%)**
+- *2019.06* &emsp; **🏆Outstanding Graduate of Liaoning Province / Northeastern University (<2%)**
 
 ---
 
