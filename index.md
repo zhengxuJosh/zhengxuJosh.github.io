@@ -2,7 +2,16 @@
 layout: homepage
 ---
 
-## About Me
+<nav style="text-align: center; margin-bottom: 2rem; font-size: 1.1rem;">
+  <a href="#about-me">About</a> |
+  <a href="#news">News</a> |
+  <a href="#students">Students</a> |
+  <a href="#projects">Projects</a> |
+  <a href="#internships">Experience</a> |
+  <a href="#honors">Honors</a>
+</nav>
+
+## <a id="about-me"></a>About Me
 I am a **Ph.D. candidate** in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am delighted in working with [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I am a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). Recently, I also collaborate with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
 
 I study **machine perception, reasoning**, and **interaction** with the physical world. 
@@ -12,16 +21,17 @@ Recently, my major research interests lie within Multi-modal Learning and Multi-
 - **Multi-modal Learning**: foundation models, representation learning ...
 - **Multi-modal Large Models**: spatial & embodied reasoning, debias, retreival-augmented understanding and generation ...
 - **Multi-modal in Computer Vision**: novel sensors, sensor fusion, scene understanding ...
-  
+
 ---
 
+## <a id="news"></a>News
 {% include_relative _includes/news.md %}
 
 ---
 
-I have honored to mentor the following students / researchers:
+## <a id="students"></a>I have honored to mentor the following students / researchers:
 
-Current:
+**Current:**
 - Yuanhuiyi Lyu, Ph.D. student @ HKUST(GZ)
 - Lutao Jiang, Ph.D. student @ HKUST(GZ)
 - Jialei Chen, Ph.D. student @ Nagoya Uni.
@@ -37,21 +47,22 @@ Current:
 - Zijie Lin, Master's student @ USTC
 - Leyi Sheng, Undergraduate student @ HKUST(GZ)
 
-Past:
+**Past:**
 - Ding Zhong, Master’s student @ Umich
 - Zhengxuan Jiang, M.Phil. student @ ZJU
 - Yunhao Luo, Student Researcher @ Georgia Tech
 - Tianbo Pan, Incoming PhD @ NUS
-  
+
 ✉️ **Welcome to contact me for any discussion and cooperation!**
 
 ---
 
+## <a id="projects"></a>Projects
 {% include_relative _includes/projects.md %}
 
 ---
 
-## Internships and Working Experiences
+## <a id="internships"></a>Internships and Working Experiences
 
 - **[Feb. 2025 ‑ present]**, **Resident Doctoral Researcher**, INSAIT, Sofia University  
   - Supervisor: Luc Van Gool, Danda Paudel
@@ -62,11 +73,7 @@ Past:
 
 ---
 
-{% include_relative _includes/services.md %}
-
----
-
-## Honors and Awards
+## <a id="honors"></a>Honors and Awards
 - *2025.06* &emsp; **🏆Best Paper, Navigating the Future: Ensuring Trustworthiness in Multi-Modal Open-World Intelligence, CVPR 2025 Workshop**
 - *2023.07* &emsp; **🏆Outstanding Master's Thesis in Liaoning Province / Northeastern University (<1%)**
 - *2022.09* &emsp; **💰National Scholarship of China (<2%)**
