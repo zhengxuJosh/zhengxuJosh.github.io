@@ -4,7 +4,7 @@ title: "Xu Zheng | AI Researcher"
 ---
 
 <!-- ===================== NAVIGATION BAR (Sticky) ===================== -->
-<nav align="center" style="position:sticky;top:0;background:rgba(255,255,255,0.9);padding:0.75rem 0;margin-bottom:2rem;font-size:1.05rem;border-bottom:1px solid #e0e0e0;z-index:1000;">
+<nav align="center" style="position:sticky;top:0;background:#ffffff;padding:0.75rem 0;margin-bottom:2rem;font-size:1.05rem;border-bottom:1px solid #e0e0e0;z-index:1000;">
   <a href="#about">About</a> •
   <a href="#research">Research&nbsp;Interests</a> •
   <a href="#news">News</a> •
