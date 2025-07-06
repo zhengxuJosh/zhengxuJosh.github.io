@@ -3,8 +3,8 @@ layout: homepage
 title: "Xu Zheng | AI Researcher"
 ---
 
-<!-- ===================== NAVIGATION BAR ===================== -->
-<nav align="center" style="margin-bottom:2rem;font-size:1.05rem;">
+<!-- ===================== NAVIGATION BAR (Sticky) ===================== -->
+<nav align="center" style="position:sticky;top:0;background:rgba(255,255,255,0.9);padding:0.75rem 0;margin-bottom:2rem;font-size:1.05rem;border-bottom:1px solid #e0e0e0;z-index:1000;">
   <a href="#about">About</a> •
   <a href="#research">Research&nbsp;Interests</a> •
   <a href="#news">News</a> •
@@ -14,15 +14,6 @@ title: "Xu Zheng | AI Researcher"
   <a href="#services">Service</a> •
   <a href="#honors">Honors</a>
 </nav>
-
-<!-- ===================== TITLE ===================== -->
-<h1 align="center">Xu Zheng</h1>
-<p align="center">
-  Ph.D.&nbsp;Candidate&nbsp;@&nbsp;HKUST&nbsp;(GZ)  |  Resident&nbsp;Doctoral&nbsp;Researcher&nbsp;@ INSAIT<br/>
-  <a href="mailto:zhengxujosh@gmail.com">zhengxujosh@gmail.com</a>  |  <a href="https://github.com/zhengxujosh">GitHub</a>
-</p>
-
----
 
 ## <a id="about"></a>About Me
 I am a **Ph.D. candidate** in the Artificial Intelligence Thrust at **The Hong Kong University of Science & Technology (Guangzhou)**, co‑advised by [Xuming Hu](https://xuminghu.github.io/) and [Raymond Chi‑Wing Wong](https://www.cse.ust.hk/~raywong/). I am also a **Resident Doctoral Researcher** at [**INSAIT**](https://insait.ai/) under the mentorship of [Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Danda Paudel](https://insait.ai/dr-danda-paudel/).
