@@ -8,8 +8,6 @@ position:
 # subposition_link: https://nyu-medicine-cssa.github.io
 affiliation: Hong Kong University of Science and Technology (HKUST)
 subaffiliation: AI Thrust  
-# affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://vlislab22.github.io/vlislab/
 email: zhengxu128@gmail.com
 # address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
 # address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
@@ -26,6 +24,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com.hk/citations?user=Ii1c51QAAAAJ&hl=zh-CN
 cv_link: assets/files/XuZheng0626.pdf
+简历_link: assets/files/0711_中文.pdf
 github_link: https://github.com/zhengxuJosh
 # linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
 # twitter: https://twitter.com/tedddddy_zhang
