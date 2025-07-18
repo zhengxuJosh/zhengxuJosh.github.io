@@ -12,7 +12,9 @@ Recently, my major research interests lie within Multi-modal Learning and Multi-
 - **Multi-modal Learning**: foundation models, representation learning ...
 - **Multi-modal Large Models**: spatial & embodied reasoning, debias, retreival-augmented understanding and generation ...
 - **Multi-modal in Computer Vision**: novel sensors, sensor fusion, scene understanding ...
-  
+
+<span style="color:red; font-weight:bold">🔥 I am actively seeking job opportunities (academia & industry) for 2026 Fall!</span>
+
 ---
 
 {% include_relative _includes/news.md %}
