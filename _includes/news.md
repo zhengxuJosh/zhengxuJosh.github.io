@@ -75,6 +75,16 @@
 
   <h3>Latest News</h3>
   <div class="news-container">
+
+   <div class="news-item">
+      <div class="news-date">
+        2025.06: One paper accepted to BMVC 2025!
+        <span>
+          <a href="" target="_blank">Code</a> and 
+          <a href="" target="_blank">Paper</a>
+        </span>
+      </div>
+    </div>
     
   <div class="news-item">
       <div class="news-date">
