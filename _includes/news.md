@@ -73,7 +73,7 @@
 </head>
 <body>
 
-  <h3>Latest News</h3>
+  <h3></h3>
   <div class="news-container">
 
    <div class="news-item">
