@@ -12,6 +12,8 @@ Currently, I focus on:
 <span style="color:red; font-weight:bold">🔥 I am actively seeking job opportunities (academia & industry) for Fall 2026!</span>
 
 ---
+
+## Latest News
 {% include_relative _includes/news.md %}
 
 ---
