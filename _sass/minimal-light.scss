@@ -233,10 +233,11 @@ papertitle {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
+  /* Removed body override to keep pure white background set earlier */
+  /* body {
     background-color: #404040;
     color: #eee6f3;
-  }
+  } */
 
   autocolor {
     color: #ab82c5;
@@ -253,7 +254,6 @@ papertitle {
   papertitle {
     color: #eeeff0;
   }
-
 }
 
 
