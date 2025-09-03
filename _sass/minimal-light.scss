@@ -3,12 +3,6 @@
 
 body {
   background-color: #fff;
-  /* Background image with soft overlay for readability */
-  background-image: linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)), url('../img/como.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
   padding: 0px;
   font: 18.0px/1.5 Crimson Pro, serif;
   color: #595959;
@@ -16,26 +10,9 @@ body {
   margin: 0
 }
 
-/* Slightly reduce the overlay on large screens for a subtle effect */
-@media screen and (min-width: 1200px) {
-  body {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.84), rgba(255, 255, 255, 0.84)), url('../img/como.jpg');
-  }
-}
-
-/* On small screens, increase overlay for better contrast */
-@media screen and (max-width: 600px) {
-  body {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.92)), url('../img/como.jpg');
-    background-attachment: scroll;
-  }
-}
-
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #404040;
-    /* Darker overlay for dark mode */
-    background-image: linear-gradient(rgba(32, 32, 32, 0.82), rgba(32, 32, 32, 0.82)), url('../img/como.jpg');
     color: #eee6f3;
   }
 }
@@ -346,6 +323,7 @@ papertitle {
 //   width: 8.00em;
 // }
 
+/* Add explicit size for h3 to make it larger */
 h3 {
   font-weight: 400;
   color: #000;
