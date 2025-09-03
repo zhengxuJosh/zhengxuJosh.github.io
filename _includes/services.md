@@ -1,5 +1,3 @@
-## Services
-
 - **Area Chair**: PDLM Workshop @ AAAI 2025
 
 - **Reviewers**: IJCV, TIP, TNNLS, TMM, TCI, Neurocomputing, etc.
