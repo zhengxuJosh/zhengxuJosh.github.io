@@ -437,15 +437,15 @@ a:hover small {
   color: #777;
 }
 
-/* Make wrapper 85% width */
+/* Make wrapper 75% width */
 .wrapper {
-  width: 85%;
+  width: 75%;
   margin: 0 auto;
 }
 
 /* Make content area fluid considering fixed left header width (232px) + spacing */
 section {
-  width: calc(100% - 260px);
+  width: calc(100% - 310px);
   float: right;
   padding-top: 4.0em;
   padding-bottom: 50px;
@@ -509,7 +509,7 @@ img {
 }
 
 header {
-  width: 232px;
+  width: 280px;
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -598,7 +598,7 @@ hr {
 }
 
 footer {
-  width: 232px;
+  width: 280px;
   float: left;
   position: fixed;
   bottom: 30px;
@@ -619,17 +619,24 @@ screen and (max-width: 960px) {
     margin: 0;
   }
 
+  header,
+  section,
+  footer {
+    float: none;
+    position: static;
+    width: auto;
+  }
+
+  header {
+    padding-right: 360px;
+  }
+
   /* On small screens, section becomes full width */
   section {
-    width: auto;
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
-  }
-
-  header {
-    padding-right: 320px;
   }
 
   header a small {
