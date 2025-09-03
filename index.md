@@ -31,7 +31,7 @@ Currently, I focus on:
 ### Mentorship
 **Current:** Yuanhuiyi Lyu (PhD, HKUST-GZ); Lutao Jiang (PhD, HKUST-GZ); Jialei Chen (PhD, Nagoya); Mengzhen Chi (PhD, NEU); Zihao Dongfang (RA, HKUST-GZ); Chenfei Liao (MPhil, HKUST-GZ); Junha Moon (MPhil, HKUST-GZ); Ziqiao Weng (UG, SCU); Yulong Guo (MS, ZJU); Kaiyu Lei (UG, XJTU); Zhenquan Zhang (MPhil, SCUT); Boyuan Zheng (MPhil, Tongji); Zijie Lin (MS, USTC); Leyi Sheng (UG, HKUST-GZ)
 
-**Past:** Ding Zhong (MS, Michigan); Zhengxuan Jiang (MPhil, ZJU); Yunhao Luo (Student Researcher, Georgia Tech); Tianbo Pan (incoming PhD, NUS) — ✉️ Contact: [email]
+**Past:** Ding Zhong (MS, Michigan); Zhengxuan Jiang (MPhil, ZJU); Yunhao Luo (Student Researcher, Georgia Tech); Tianbo Pan (incoming PhD, NUS)
 
 ✉️ <strong>Feel free to contact me for discussion and collaboration!</strong>
 
