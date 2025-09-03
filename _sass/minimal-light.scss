@@ -12,8 +12,8 @@ body {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #404040;
-    color: #eee6f3;
+    background-color: #fff; /* force pure white even in dark mode */
+    color: #595959;
   }
 }
 
@@ -437,9 +437,18 @@ a:hover small {
   color: #777;
 }
 
+/* Make wrapper full width */
 .wrapper {
-  width: 960px;
+  width: 100%;
   margin: 0 auto;
+}
+
+/* Make content area fluid considering fixed left header width (232px) + spacing */
+section {
+  width: calc(100% - 260px);
+  float: right;
+  padding-top: 4.0em;
+  padding-bottom: 50px;
 }
 
 blockquote {
@@ -577,13 +586,6 @@ header ul a strong {
   color: #222;
 }
 
-section {
-  width: 650px;
-  float: right;
-  padding-top: 4.0em;
-  padding-bottom: 50px;
-}
-
 small {
   font-size: 11px;
 }
@@ -617,25 +619,17 @@ screen and (max-width: 960px) {
     margin: 0;
   }
 
-
-
-  header,
-  section,
-  footer {
-    float: none;
-    position: static;
-    width: auto;
-  }
-
-  header {
-    padding-right: 320px;
-  }
-
+  /* On small screens, section becomes full width */
   section {
+    width: auto;
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
+  }
+
+  header {
+    padding-right: 320px;
   }
 
   header a small {
