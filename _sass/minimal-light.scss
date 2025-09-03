@@ -372,6 +372,34 @@ h2 {
     color: #d6d6d6;
     font-family: "Ubuntu Mono";
   }
+
+  /* Dark mode navigation styles */
+  .main-nav ul {
+    background: #2a2a2a;
+    border-color: #404040;
+  }
+
+  .main-nav li {
+    border-bottom-color: #404040;
+  }
+
+  .main-nav a {
+    color: #d6d6d6;
+  }
+
+  .main-nav a:hover {
+    background-color: #404040;
+    color: #ab82c5;
+  }
+
+  .main-nav a.active {
+    background-color: #ab82c5;
+    color: #2a2a2a;
+  }
+
+  .main-nav a.active:hover {
+    background-color: #9a71b4;
+  }
 }
 
 p,
@@ -549,6 +577,58 @@ strong {
 header ul li+li+li {
   border-right: none;
   width: 89px;
+}
+
+/* Navigation Menu Styles */
+.main-nav {
+  margin: 20px 0;
+}
+
+.main-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: #f8f8f8;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.main-nav li {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.main-nav li:last-child {
+  border-bottom: none;
+}
+
+.main-nav a {
+  display: block;
+  padding: 12px 16px;
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border-radius: 6px;
+  margin: 2px;
+}
+
+.main-nav a:hover {
+  background-color: #e8e8e8;
+  color: #57068c;
+  transform: translateX(4px);
+}
+
+.main-nav a.active {
+  background-color: #57068c;
+  color: white;
+  font-weight: 600;
+}
+
+.main-nav a.active:hover {
+  background-color: #4a0568;
+  transform: none;
 }
 
 header ul a strong {
