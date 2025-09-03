@@ -36,7 +36,6 @@ Currently, I focus on:
 
 ---
 
-## Mentorship
 {% include_relative _includes/services.md %}
 
 ---
