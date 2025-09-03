@@ -13,12 +13,12 @@ Currently, I focus on:
 
 ---
 
-## Latest News
+### Latest News
 {% include_relative _includes/news.md %}
 
 ---
 
-## Invited Talks
+### Invited Talks
 - **"Omnidirectional Vision: From Scene Understanding, Spatial Intelligence to Industrial Applications"**  
   *SPIC Energy Science and Technology Research Institute*, Shanghai, China, August 2025.
 - **"PANORAMA: Exploring the Industrial Potentials of Omnidirectional Vision"**  
@@ -28,7 +28,7 @@ Currently, I focus on:
 
 ---
 
-## Mentorship
+### Mentorship
 **Current:** Yuanhuiyi Lyu (PhD, HKUST-GZ); Lutao Jiang (PhD, HKUST-GZ); Jialei Chen (PhD, Nagoya); Mengzhen Chi (PhD, NEU); Zihao Dongfang (RA, HKUST-GZ); Chenfei Liao (MPhil, HKUST-GZ); Junha Moon (MPhil, HKUST-GZ); Ziqiao Weng (UG, SCU); Yulong Guo (MS, ZJU); Kaiyu Lei (UG, XJTU); Zhenquan Zhang (MPhil, SCUT); Boyuan Zheng (MPhil, Tongji); Zijie Lin (MS, USTC); Leyi Sheng (UG, HKUST-GZ)
 
 **Past:** Ding Zhong (MS, Michigan); Zhengxuan Jiang (MPhil, ZJU); Yunhao Luo (Student Researcher, Georgia Tech); Tianbo Pan (incoming PhD, NUS) — ✉️ Contact: [email]
@@ -37,6 +37,7 @@ Currently, I focus on:
 
 ---
 
+### Services
 {% include_relative _includes/services.md %}
 
 ---
