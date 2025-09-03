@@ -373,31 +373,35 @@ h2 {
     font-family: "Ubuntu Mono";
   }
 
-  /* Dark mode navigation styles */
-  .main-nav ul {
-    background: #2a2a2a;
-    border-color: #404040;
-  }
-
-  .main-nav li {
+  /* Dark mode top navigation styles */
+  .top-nav {
+    background: rgba(42, 42, 42, 0.95);
     border-bottom-color: #404040;
   }
 
-  .main-nav a {
+  .nav-brand a {
     color: #d6d6d6;
   }
 
-  .main-nav a:hover {
+  .nav-brand a:hover {
+    color: #ab82c5;
+  }
+
+  .nav-menu a {
+    color: #d6d6d6;
+  }
+
+  .nav-menu a:hover {
     background-color: #404040;
     color: #ab82c5;
   }
 
-  .main-nav a.active {
+  .nav-menu a.active {
     background-color: #ab82c5;
     color: #2a2a2a;
   }
 
-  .main-nav a.active:hover {
+  .nav-menu a.active:hover {
     background-color: #9a71b4;
   }
 }
@@ -514,7 +518,7 @@ header {
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
-  padding-top: 4.0em;
+  padding-top: 6.0em;
   text-align: center
 }
 
@@ -579,56 +583,78 @@ header ul li+li+li {
   width: 89px;
 }
 
-/* Navigation Menu Styles */
-.main-nav {
-  margin: 20px 0;
-}
-
-.main-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  background: #f8f8f8;
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.main-nav li {
+/* Top Navigation Bar Styles */
+.top-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
   border-bottom: 1px solid #e0e0e0;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
-.main-nav li:last-child {
-  border-bottom: none;
+.nav-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;
 }
 
-.main-nav a {
+.nav-brand a {
+  font-size: 20px;
+  font-weight: 600;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav-brand a:hover {
+  color: #57068c;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 0;
+}
+
+.nav-menu li {
+  margin: 0;
+}
+
+.nav-menu a {
   display: block;
-  padding: 12px 16px;
+  padding: 8px 16px;
   color: #333;
   text-decoration: none;
   font-size: 14px;
   font-weight: 500;
   transition: all 0.3s ease;
   border-radius: 6px;
-  margin: 2px;
+  margin: 0 2px;
 }
 
-.main-nav a:hover {
-  background-color: #e8e8e8;
+.nav-menu a:hover {
+  background-color: #f0f0f0;
   color: #57068c;
-  transform: translateX(4px);
 }
 
-.main-nav a.active {
+.nav-menu a.active {
   background-color: #57068c;
   color: white;
   font-weight: 600;
 }
 
-.main-nav a.active:hover {
+.nav-menu a.active:hover {
   background-color: #4a0568;
-  transform: none;
 }
 
 header ul a strong {
@@ -640,7 +666,7 @@ header ul a strong {
 section {
   width: 650px;
   float: right;
-  padding-top: 4.0em;
+  padding-top: 6.0em;
   padding-bottom: 50px;
 }
 
@@ -677,6 +703,20 @@ screen and (max-width: 960px) {
     margin: 0;
   }
 
+  /* Top navigation responsive */
+  .nav-container {
+    padding: 0 15px;
+  }
+
+  .nav-menu {
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  .nav-menu a {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
 
   header,
   section,
@@ -688,6 +728,7 @@ screen and (max-width: 960px) {
 
   header {
     padding-right: 320px;
+    padding-top: 8.0em;
   }
 
   section {
@@ -695,6 +736,7 @@ screen and (max-width: 960px) {
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
+    padding-top: 8.0em;
   }
 
   header a small {
@@ -706,7 +748,6 @@ screen and (max-width: 960px) {
     right: 50px;
     top: 52px;
   }
-
 
   .image.avatar img {
     border-radius: 20%;
