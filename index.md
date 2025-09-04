@@ -13,9 +13,13 @@ Currently, I focus on:
 
 <span style="color:red; font-weight:bold">🔥 I am actively seeking job opportunities (academia & industry) for Fall 2026!</span>
 
+---
+
 ### Latest News
 
 {% include_relative _includes/news.md %}
+
+---
 
 ### Invited Talks
 
@@ -26,6 +30,7 @@ Currently, I focus on:
 - **"Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning"**  
   *VIVO*, August 2025. Invited talk by [Dr. Kanzhi Wu](https://scholar.google.com.hk/citations?user=N0WHQ2wAAAAJ&hl=zh-CN&oi=ao) at *VIVO*, China, August 2025.
 
+---
 
 ### Mentorship
 
@@ -35,6 +40,7 @@ Currently, I focus on:
 
 ✉️ <strong>Feel free to contact me for discussion and collaboration!</strong>
 
+---
 
 ### Services
 
