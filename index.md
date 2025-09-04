@@ -28,7 +28,7 @@ Currently, I focus on:
 - **"PANORAMA: Exploring the Industrial Potentials of Omnidirectional Vision"**  
   *Yangtze River Delta International Talent Port*, Wuxi, China, August 2025.
 - **"Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning"**  
-  *VIVO*, August 2025. Invited talk by [Dr. Kanzhi Wu](https://scholar.google.com.hk/citations?user=N0WHQ2wAAAAJ&hl=zh-CN&oi=ao) at *VIVO*, China, August 2025.
+  *VIVO*, August 2025. Invited talk by [Dr. Kanzhi Wu](https://scholar.google.com.hk/citations?user=N0WHQ2wAAAAJ&hl=zh-CN&oi=ao), Shenzhen, China, August 2025.
 
 ---
 
