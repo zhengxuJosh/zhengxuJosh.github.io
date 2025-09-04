@@ -1,5 +1,5 @@
 - **2025.06**: One paper accepted to BMVC 2025!
-- **2025.06**: Four papers accepted to ICCV 2025!
+- **2025.06**: Four papers (one **Highlight (2.8%)**) accepted to ICCV 2025!
 - **2025.06**: Our paper is selected as **Best Paper** at CVPR 2025 @ TMM Open-World! [Code](https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark) and [Paper](https://arxiv.org/pdf/2503.18445)
 - **2025.06**: One paper accepted to IROS 2025! [Code](https://github.com/iAsakiT3T/SHIFNet) and [Paper](https://arxiv.org/pdf/2503.02581)
 - **2025.05**: Two papers accepted to ACL 2025 Findings! [Paper1](https://arxiv.org/pdf/2502.11051) and [Paper2](https://arxiv.org/pdf/2412.11936)
