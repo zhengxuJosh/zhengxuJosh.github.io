@@ -1,4 +1,5 @@
-- **2025.09**: Two paper accepted to NeurIPS 2025!
+- **2025.09**: One paper accepted to TCSVT!
+- **2025.09**: Two papers accepted to NeurIPS 2025!
 - **2025.06**: One paper accepted to BMVC 2025!
 - **2025.06**: Four papers (one **Highlight (2.8%)**) accepted to ICCV 2025!
 - **2025.06**: Our paper is selected as **Best Paper** at CVPR 2025 @ TMM Open-World! [Code](https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark) and [Paper](https://arxiv.org/pdf/2503.18445)
