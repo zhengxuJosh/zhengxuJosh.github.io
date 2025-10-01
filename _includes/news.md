@@ -1,4 +1,4 @@
-- **2025.09**: One paper accepted to **TCSVT**.
+- **2025.09**: One paper accepted to **IEEE TCSVT**.
 - **2025.09**: Two papers accepted to **NeurIPS 2025**.
 - **2025.06**: One paper accepted to **BMVC 2025**.
 - **2025.06**: Four papers (one **Highlight (2.8%)**) accepted to **ICCV 2025**.
