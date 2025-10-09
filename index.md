@@ -15,7 +15,7 @@ Currently, I focus on:
 
 ---
 
-### Latest News
+### News
 
 {% include_relative _includes/news.md %}
 
