@@ -1,4 +1,5 @@
-- **2025.09**: One paper accepted to **IEEE TCSVT**: [CLIP-to-Seg](https://ieeexplore.ieee.org/abstract/document/11187310)
+- **2025.10**: One paper accepted to **IJCV**
+- **2025.10**: One paper accepted to **IEEE TCSVT**: [CLIP-to-Seg](https://ieeexplore.ieee.org/abstract/document/11187310)
 - **2025.09**: Two papers accepted to **NeurIPS 2025**: [Domain-RAG](https://arxiv.org/pdf/2506.05872) & [HoloV](https://arxiv.org/pdf/2510.02912)
 - **2025.06**: One paper accepted to **BMVC 2025**: [Split Matching](https://arxiv.org/pdf/2505.05023)
 - **2025.06**: Four papers (one **Highlight (2.8%)**) accepted to **ICCV 2025**: [OmniSAM(Highlight)](https://arxiv.org/pdf/2503.07098) & [CIARD](https://arxiv.org/pdf/2509.12633) & [UNLOCK](https://arxiv.org/pdf/2506.21198) & [Unimodal Bias](https://arxiv.org/pdf/2505.06635)
