@@ -4,12 +4,18 @@ layout: homepage
 
 ### About Me
 
-👋 I am a **Ph.D. candidate** in the AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am fortunate to be advised by [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I also serve as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). Recently, I have also been collaborating with [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/) and [Kailun Yang @ HNU](https://www.yangkailun.com/). My research centers on **machine perception**, **reasoning**, and **interaction** with the physical world.
+👋 I am a **Ph.D. candidate** in the AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am fortunate to be advised by [Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I also serve as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). 
+
+Recently, I have also been collaborating with [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
+
+My doctoral research focuses on developing algorithms for robust and interpretable multi-modal learning that span the full spectrum of **perception**, **understanding**, **reasoning**, and **generation**.
 
 Currently, I focus on:
-- **Multi-modal Learning**: foundation models, representation learning, self-supervision, contrastive alignment.
-- **Multi-modal Large Models**: spatial & embodied reasoning, debiasing, retrieval-augmented understanding & generation.
-- **Multi-modal in Computer Vision**: novel sensors, sensor fusion, scene understanding.
+- **Multi-modal Foundation Models**: Designing architectures that align heterogeneous sensory inputs (e.g., vision, language, audio, events) through representation learning and retrieval-augmented generation, enabling unified perception and reasoning.
+- **Robust Scene Understanding**: Building models that mimic human perceptual stability under noise, distortion, and viewpoint changes to achieve reliable and interpretable scene comprehension.
+- **Debiased Multi-modal Learning**: Developing methods to mitigate unimodal biases inherent in vision-language models and multi-modal LLMs, improving generalization across domains and modalities.
+- **Advanced Reasoning for Embodied Intelligence**: Integrating reinforcement learning and geometric priors to enhance spatial reasoning, action prediction, and decision-making in embodied AI agents.
+- **Unified Understanding and Generation Models**: Bridging discriminative and generative paradigms to construct systems capable of both understanding and producing multi-modal content coherently and controllably.
 
 <span style="color:red; font-weight:bold">🔥 I am actively seeking job opportunities (academia & industry) for Fall 2026!</span>
 
