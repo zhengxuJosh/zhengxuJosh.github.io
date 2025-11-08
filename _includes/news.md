@@ -1,3 +1,4 @@
+- **2025.11**: Two papers accepted to **AAAI 2026**.
 - **2025.10**: The first Multi-modal Spatial Reasoning survey released: [Paper]([https://arxiv.org/pdf/2503.18016](https://arxiv.org/abs/2510.25760
 ))
 - **2025.10**: One paper accepted to **IJCV**
