@@ -12,18 +12,18 @@ My doctoral research focuses on developing algorithms for robust and interpretab
 
 Currently, I focus on:
 
-**Artificial Intelligence Generated Content (AIGC)**: **[RealRAG](https://arxiv.org/pdf/2502.00848)** (ICML 2025) **[TransDiff](https://arxiv.org/pdf/2506.09482)** (arXiv 2025)
+- Artificial Intelligence Generated Content (AIGC): **[RealRAG](https://arxiv.org/pdf/2502.00848)** (ICML 2025) **[TransDiff](https://arxiv.org/pdf/2506.09482)** (arXiv 2025)
 
-**Multimodal Foundation Models**: **[UniBind](http://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_UniBind_LLM-Augmented_Unified_and_Balanced_Representation_Space_to_Bind_Them_CVPR_2024_paper.pdf)** (CVPR 2024) **[EventBind](https://arxiv.org/pdf/2308.03135)** (ECCV 2024)
+- Multimodal Foundation Models: **[UniBind](http://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_UniBind_LLM-Augmented_Unified_and_Balanced_Representation_Space_to_Bind_Them_CVPR_2024_paper.pdf)** (CVPR 2024) **[EventBind](https://arxiv.org/pdf/2308.03135)** (ECCV 2024)
 
-**Scene Understanding & Spatial Reasoning**: **[OmniSAM](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf)** (ICCV 2025) **[OSR-Bench](https://arxiv.org/pdf/2505.11907)** (arXiv 2025)
+- Scene Understanding & Spatial Reasoning: **[OmniSAM](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf)** (ICCV 2025) **[OSR-Bench](https://arxiv.org/pdf/2505.11907)** (arXiv 2025)
 
-**Novel / Omnidirectional Sensors**: **[360SFUDA++](https://arxiv.org/pdf/2404.16501)** (TPAMI 2024)
+- Novel / Omnidirectional Sensors: **[360SFUDA++](https://arxiv.org/pdf/2404.16501)** (TPAMI 2024)
 **[DPPASS](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf)** (CVPR 2023)
 
-**Robustness & Knowledge Distillation**: **[CIARD](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_CIARD_Cyclic_Iterative_Adversarial_Robustness_Distillation_ICCV_2025_paper.pdf)** (ICCV 2025) **[C2VKD](https://arxiv.org/pdf/2310.07265)** (Pattern Recognition 2024)
+- Robustness & Knowledge Distillation: **[CIARD](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_CIARD_Cyclic_Iterative_Adversarial_Robustness_Distillation_ICCV_2025_paper.pdf)** (ICCV 2025) **[C2VKD](https://arxiv.org/pdf/2310.07265)** (Pattern Recognition 2024)
 
-Recently, I survey papers in cutting-edge topics: [RAG for Computer Vision](https://github.com/zhengxuJosh/Awesome-RAG-Vision) and [Multi-modal Spatial Reasoning](https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning).
+I also survey papers in cutting-edge topics: [RAG for Computer Vision](https://github.com/zhengxuJosh/Awesome-RAG-Vision) and [Multi-modal Spatial Reasoning](https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning).
 
 <span style="color:red; font-weight:bold">🔥 I am actively seeking job opportunities (academia & industry) for Fall 2026!</span>
 
