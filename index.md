@@ -4,26 +4,18 @@ layout: homepage
 
 ### About Me
 
-👋 I am a **Ph.D. candidate** in the AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am fortunate to be advised by [Prof. Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Prof. Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I also serve as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). 
+👋 I am a **Ph.D. candidate** in the AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am fortunate to be advised by [Prof. Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Prof. Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I also serve as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). Recently, I have also been collaborating with [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
 
-Recently, I have also been collaborating with [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
-
-My doctoral research focuses on developing algorithms for robust and interpretable multi-modal learning that span the full spectrum of **perception**, **understanding**, **reasoning**, and **generation**.
-
-Currently, I focus on:
+My doctoral research focuses on developing algorithms for robust and interpretable multi-modal learning that span the full spectrum of **perception**, **understanding**, **reasoning**, and **generation**, such as:
 
 - Artificial Intelligence Generated Content (AIGC): **[RealRAG](https://arxiv.org/pdf/2502.00848)** (ICML 2025) **[TransDiff](https://arxiv.org/pdf/2506.09482)** (arXiv 2025)
-
 - Multimodal Foundation Models: **[UniBind](http://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_UniBind_LLM-Augmented_Unified_and_Balanced_Representation_Space_to_Bind_Them_CVPR_2024_paper.pdf)** (CVPR 2024) **[EventBind](https://arxiv.org/pdf/2308.03135)** (ECCV 2024)
-
 - Scene Understanding & Spatial Reasoning: **[OmniSAM](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf)** (ICCV 2025) **[OSR-Bench](https://arxiv.org/pdf/2505.11907)** (arXiv 2025)
-
 - Novel / Omnidirectional Sensors: **[360SFUDA++](https://arxiv.org/pdf/2404.16501)** (TPAMI 2024)
 **[DPPASS](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf)** (CVPR 2023)
-
 - Robustness & Knowledge Distillation: **[CIARD](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_CIARD_Cyclic_Iterative_Adversarial_Robustness_Distillation_ICCV_2025_paper.pdf)** (ICCV 2025) **[C2VKD](https://arxiv.org/pdf/2310.07265)** (Pattern Recognition 2024)
 
-I also survey papers in cutting-edge topics: [RAG for Computer Vision](https://github.com/zhengxuJosh/Awesome-RAG-Vision) and [Multi-modal Spatial Reasoning](https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning).
+I also survey papers in cutting-edge topics: [RAG for Computer Vision](https://github.com/zhengxuJosh/Awesome-RAG-Vision), [Multi-modal Spatial Reasoning](https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning), and [360 Vision in Embodied AI](https://github.com/Chenfei-Liao/Awesome-360-Vision-Embodied-AI).
 
 <span style="color:red; font-weight:bold">🔥 I am actively seeking job opportunities (academia & industry) for Fall 2026!</span>
 
