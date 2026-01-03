@@ -1,3 +1,4 @@
+- **2026.01**: One paper accepted to **ACM ToMM**.
 - **2025.11**: Selected to the [**MBZUAI Machine Learning Winter School 2026**](https://mlws.mbzuai.ac.ae/) in Abu Dhabi.
 - **2025.11**: Two papers accepted to **AAAI 2026**.
 - **2025.10**: The first Multi-modal Spatial Reasoning survey released: [Paper]([https://arxiv.org/pdf/2503.18016](https://arxiv.org/abs/2510.25760
