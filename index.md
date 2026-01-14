@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-### About Me
+## About Me
 
 👋 I am a **Ph.D. candidate** in the AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am fortunate to be advised by [Prof. Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Prof. Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). 
 
@@ -25,13 +25,13 @@ I also survey papers in cutting-edge topics: [RAG for Computer Vision](https://g
 
 ---
 
-### News
+## News
 
 {% include_relative _includes/news.md %}
 
 ---
 
-### Invited Talks
+## Invited Talks
 
 - **"Omnidirectional Vision: From Scene Understanding, Spatial Intelligence to Industrial Applications"**  
   *SPIC Energy Science and Technology Research Institute*, Shanghai, China, August 2025.
@@ -42,7 +42,7 @@ I also survey papers in cutting-edge topics: [RAG for Computer Vision](https://g
 
 ---
 
-### Mentorship
+## Mentorship
 
 **Current:** [Yuanhuiyi Lyu (PhD, HKUST-GZ)](https://qc-ly.github.io/); [Lutao Jiang (PhD, HKUST-GZ)](https://lutao2021.github.io/); [Jialei Chen (PhD, Nagoya)](https://psmobile.github.io/); Mengzhen Chi (PhD, NEU); [Zihao Dongfang (RA, HKUST-GZ)](https://scholar.google.com.hk/citations?hl=zh-CN&user=IvJ4_xsAAAAJ); [Chenfei Liao (MPhil, HKUST-GZ)](https://chenfei-liao.github.io/); Junha Moon (MPhil, HKUST-GZ); [Ziqiao Weng (MPhil, HKUST-GZ))](https://katie312.github.io/); Yulong Guo (MS, ZJU); Kaiyu Lei (MPhil, HKUST-GZ));  Leyi Sheng (UG, HKUST-GZ)
 
@@ -52,7 +52,7 @@ I also survey papers in cutting-edge topics: [RAG for Computer Vision](https://g
 
 ---
 
-### Services
+## Services
 
 {% include_relative _includes/services.md %}
 
