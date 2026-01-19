@@ -6,9 +6,9 @@ layout: homepage
 
 👋 I am a **Ph.D. candidate** in the AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I am fortunate to be advised by [Prof. Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Prof. Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). 
 
-I also serve as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). 
+I also serve as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/).
 
-Recently, I have also been collaborating with [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
+Recently, I have also been collaborating with [Prof. Philip S. Yu @ UIC]([https://disi.unitn.it/~sebe/](https://scholar.google.com.hk/citations?user=D0lL1r0AAAAJ&hl=zh-CN&oi=ao)), [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
 
 My doctoral research focuses on developing algorithms for robust and interpretable multi-modal learning that span the full spectrum of **perception**, **understanding**, **reasoning**, and **generation**, such as:
 
