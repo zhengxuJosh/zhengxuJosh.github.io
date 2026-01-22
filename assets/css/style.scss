@@ -23,3 +23,20 @@
     max-width: none;
   }
 }
+
+/* 优化个人照片大小：调大avatar尺寸使其更突出 */
+#header .image.avatar {
+  width: 11.0em !important; /* 从8em增加到11em，约176px */
+}
+
+.image.avatar img {
+  width: 95% !important; /* 从90%增加到95%，让图片更大 */
+  padding: 10px !important; /* 稍微增加内边距 */
+}
+
+/* 在小屏幕上也适当增大 */
+@media screen and (max-width: 960px) {
+  .image.avatar img {
+    width: 200px !important; /* 从180px增加到200px */
+  }
+}
