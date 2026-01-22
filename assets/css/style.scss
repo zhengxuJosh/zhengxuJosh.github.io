@@ -2,3 +2,24 @@
 ---
 
 @import "minimal-light";
+
+/* 自定义布局优化：增加内容区域宽度 */
+.wrapper {
+  width: 82% !important;
+  max-width: 1400px; /* 在大屏幕上限制最大宽度，保持可读性 */
+}
+
+/* 响应式调整：在中等屏幕上使用85% */
+@media screen and (min-width: 1200px) and (max-width: 1600px) {
+  .wrapper {
+    width: 85% !important;
+  }
+}
+
+/* 在小屏幕上保持原有响应式行为 */
+@media screen and (max-width: 960px) {
+  .wrapper {
+    width: auto !important;
+    max-width: none;
+  }
+}
