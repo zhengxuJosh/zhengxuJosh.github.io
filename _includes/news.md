@@ -1,8 +1,7 @@
 - **2026.01**: One paper accepted to **ACM ToMM**.
 - **2025.11**: Selected to the [**MBZUAI Machine Learning Winter School 2026**](https://mlws.mbzuai.ac.ae/) in Abu Dhabi.
 - **2025.11**: Two papers accepted to **AAAI 2026**.
-- **2025.10**: The first Multi-modal Spatial Reasoning survey released: [Paper]([https://arxiv.org/pdf/2503.18016](https://arxiv.org/abs/2510.25760
-))
+- **2025.10**: The first Multi-modal Spatial Reasoning survey released: [Paper](https://arxiv.org/abs/2510.25760)
 - **2025.10**: One paper accepted to **IJCV**
 - **2025.10**: One paper accepted to **IEEE TCSVT**: [CLIP-to-Seg](https://ieeexplore.ieee.org/abstract/document/11187310)
 - **2025.09**: Two papers accepted to **NeurIPS 2025**: [Domain-RAG](https://arxiv.org/pdf/2506.05872) & [HoloV](https://arxiv.org/pdf/2510.02912)

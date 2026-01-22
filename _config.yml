@@ -16,9 +16,9 @@ email: zhengxu128@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Xu Zheng, HKUST, AI, Computer Vision, Machine Learning, Multimodal Learning, Semantic Segmentation, Domain Adaptation, Panoramic Vision, AIGC
+description: Xu Zheng - Ph.D. candidate in AI at HKUST. Research on multimodal learning, computer vision, and AI-generated content.
+canonical: https://zhengxuJosh.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -27,7 +27,7 @@ cv_link: assets/files/xuzheng_1213.pdf
 # Chinese_CV: assets/files/0824.pdf
 github_link: https://github.com/zhengxuJosh
 linkedin: https://www.linkedin.com/in/xu-zheng-3185642a6/
-Instagram: https://www.instagram.com/zhengxu9128/
+instagram: https://www.instagram.com/zhengxu9128/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
