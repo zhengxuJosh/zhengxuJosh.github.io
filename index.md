@@ -24,14 +24,6 @@ I also survey papers in cutting-edge topics: [RAG for Computer Vision](https://g
 
 ---
 
-## Selected Publications
-
-{% include_relative _includes/publications.md %}
-
-For a complete list of publications, please visit my [Google Scholar]({{ site.google_scholar }}) profile.
-
----
-
 ## News
 
 {% include_relative _includes/news.md %}
