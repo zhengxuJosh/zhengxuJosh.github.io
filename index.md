@@ -53,9 +53,9 @@ For a complete list of publications, please visit my [Google Scholar]({{ site.go
 
 ## Mentorship
 
-**Current:** [Yuanhuiyi Lyu (PhD, HKUST-GZ)](https://qc-ly.github.io/); [Lutao Jiang (PhD, HKUST-GZ)](https://lutao2021.github.io/); [Jialei Chen (PhD, Nagoya)](https://psmobile.github.io/); Mengzhen Chi (PhD, NEU); [Zihao Dongfang (RA, HKUST-GZ)](https://scholar.google.com.hk/citations?hl=zh-CN&user=IvJ4_xsAAAAJ); [Chenfei Liao (MPhil, HKUST-GZ)](https://chenfei-liao.github.io/); Junha Moon (MPhil, HKUST-GZ); [Ziqiao Weng (MPhil, HKUST-GZ)](https://katie312.github.io/); Yulong Guo (MS, ZJU); Kaiyu Lei (MPhil, HKUST-GZ); Leyi Sheng (UG, HKUST-GZ)
+**Current:** [Chenfei Liao (MPhil, HKUST-GZ)](https://chenfei-liao.github.io/); [Zihao Dongfang (RA, HKUST-GZ)](https://scholar.google.com.hk/citations?hl=zh-CN&user=IvJ4_xsAAAAJ); [Ziqiao Weng (MPhil, HKUST-GZ)](https://katie312.github.io/)
 
-**Past:** Ding Zhong (MS, Michigan); Zhengxuan Jiang (MPhil, ZJU); Yunhao Luo (PhD, Umich); Tianbo Pan (PhD, NUS); Zijie Lin (MS, USTC); Zhenquan Zhang (MPhil, SCUT); [Boyuan Zheng (MPhil, Tongji)](https://nathandrake67.github.io/zhengby.github.io/)
+**Past:** [Yuanhuiyi Lyu (PhD, HKUST-GZ)](https://qc-ly.github.io/); [Lutao Jiang (PhD, HKUST-GZ)](https://lutao2021.github.io/); [Jialei Chen (PhD, Nagoya)](https://psmobile.github.io/); Mengzhen Chi (PhD, NEU); Junha Moon (MPhil, HKUST-GZ); Yulong Guo (MS, ZJU); Kaiyu Lei (MPhil, HKUST-GZ); Leyi Sheng (UG, HKUST-GZ); Ding Zhong (MS, Michigan); Zhengxuan Jiang (MPhil, ZJU); Yunhao Luo (PhD, Umich); Tianbo Pan (PhD, NUS); Zijie Lin (MS, USTC); Zhenquan Zhang (MPhil, SCUT); [Boyuan Zheng (MPhil, Tongji)](https://nathandrake67.github.io/zhengby.github.io/)
 
 ✉️ <strong>Feel free to contact me for discussion and collaboration!</strong>
 
