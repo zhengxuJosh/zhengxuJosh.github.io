@@ -45,9 +45,10 @@ I also survey papers in cutting-edge topics: [RAG for Computer Vision](https://g
 
 ## Mentorship
 
-**Current:** [Chenfei Liao (MPhil, HKUST-GZ)](https://chenfei-liao.github.io/); [Zihao Dongfang (RA, HKUST-GZ)](https://scholar.google.com.hk/citations?hl=zh-CN&user=IvJ4_xsAAAAJ); [Ziqiao Weng (MPhil, HKUST-GZ)](https://katie312.github.io/)
+**Current:** 
+[Chenfei Liao (MPhil, HKUST-GZ)](https://chenfei-liao.github.io/); [Zihao Dongfang (RA, HKUST-GZ)](https://scholar.google.com.hk/citations?hl=zh-CN&user=IvJ4_xsAAAAJ); [Ziqiao Weng (MPhil, HKUST-GZ)](https://katie312.github.io/)
 
-**Past:** [Yuanhuiyi Lyu (PhD, HKUST-GZ)](https://qc-ly.github.io/); [Lutao Jiang (PhD, HKUST-GZ)](https://lutao2021.github.io/); [Jialei Chen (PhD, Nagoya)](https://psmobile.github.io/); Mengzhen Chi (PhD, NEU); Junha Moon (MPhil, HKUST-GZ); Yulong Guo (MS, ZJU); Kaiyu Lei (MPhil, HKUST-GZ); Leyi Sheng (UG, HKUST-GZ); Ding Zhong (MS, Michigan); Zhengxuan Jiang (MPhil, ZJU); Yunhao Luo (PhD, Umich); Tianbo Pan (PhD, NUS); Zijie Lin (MS, USTC); Zhenquan Zhang (MPhil, SCUT); [Boyuan Zheng (MPhil, Tongji)](https://nathandrake67.github.io/zhengby.github.io/)
+**Past:** [Yuanhuiyi Lyu (PhD, HKUST-GZ)](https://qc-ly.github.io/); [Lutao Jiang (PhD, HKUST-GZ)](https://lutao2021.github.io/); [Jialei Chen (PhD, Nagoya)](https://psmobile.github.io/); Mengzhen Chi (PhD, NEU); Junha Moon (MPhil, HKUST-GZ); Kaiyu Lei (MPhil, HKUST-GZ); Leyi Sheng (UG, HKUST-GZ); Ding Zhong (MS, Michigan); Yunhao Luo (PhD, Umich); Tianbo Pan (PhD, NUS); Zhenquan Zhang (MPhil, SCUT); [Boyuan Zheng (MPhil, Tongji)](https://nathandrake67.github.io/zhengby.github.io/)
 
 ✉️ <strong>Feel free to contact me for discussion and collaboration!</strong>
 
