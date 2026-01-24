@@ -1,5 +1,3 @@
-## Gallery
-
 <div class="gallery-intro">
 📷 Travel Album - Exploring the world through research and adventure
 </div>
