@@ -5,12 +5,17 @@
 
 /* 标签页导航样式 */
 .page-tabs {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
   display: flex;
   gap: 8px;
   margin-bottom: 25px;
-  padding-bottom: 12px;
+  padding: 12px 0;
   border-bottom: 2px solid #e0e0e0;
+  background-color: #fff;
   flex-wrap: wrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
 .tab-button {
