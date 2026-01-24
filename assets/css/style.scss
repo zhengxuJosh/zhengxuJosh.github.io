@@ -3,6 +3,158 @@
 
 @import "minimal-light";
 
+/* 标签页导航样式 */
+.page-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 25px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #e0e0e0;
+  flex-wrap: wrap;
+}
+
+.tab-button {
+  padding: 8px 16px;
+  background-color: #f5f5f5;
+  border: 1px solid #d0d0d0;
+  border-radius: 6px 6px 0 0;
+  cursor: pointer;
+  font-size: 0.95em;
+  font-weight: 500;
+  color: #666;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.tab-button:hover {
+  background-color: #e8e8e8;
+  color: #333;
+}
+
+.tab-button.active {
+  background-color: #fff;
+  border-bottom: 2px solid #fff;
+  color: #333;
+  font-weight: 600;
+  margin-bottom: -2px;
+}
+
+.tab-content {
+  display: none;
+  animation: fadeIn 0.3s ease-in;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 小屏幕优化 */
+@media screen and (max-width: 960px) {
+  .page-tabs {
+    gap: 6px;
+  }
+  
+  .tab-button {
+    padding: 6px 12px;
+    font-size: 0.9em;
+  }
+}
+
+/* About Me 页面两栏布局 */
+.two-column-layout {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.left-column {
+  flex: 1;
+  min-width: 0;
+}
+
+.right-column {
+  flex: 0 0 350px;
+  position: sticky;
+  top: 20px;
+  background: linear-gradient(135deg, #fafafa 0%, #f5f5f5 100%);
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.04);
+  transition: all 0.3s ease;
+}
+
+.right-column:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12), 0 3px 6px rgba(0, 0, 0, 0.06);
+  border-color: #d0d0d0;
+}
+
+.job-seeking-banner {
+  background: linear-gradient(135deg, #fff5f5 0%, #ffe5e5 100%);
+  border: 2px solid #ff6b6b;
+  border-radius: 8px;
+  padding: 12px 15px;
+  margin-bottom: 18px;
+  color: #d32f2f;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(255, 107, 107, 0.15);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 2px 8px rgba(255, 107, 107, 0.15);
+  }
+  50% {
+    box-shadow: 0 4px 12px rgba(255, 107, 107, 0.25);
+  }
+}
+
+.right-column h2 {
+  margin-top: 0;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #e0e0e0;
+  background: linear-gradient(90deg, #333 0%, #666 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-size: 1.3em;
+}
+
+.right-column .news-container {
+  max-height: 600px;
+  padding-right: 5px;
+}
+
+/* 小屏幕改为单列布局 */
+@media screen and (max-width: 1200px) {
+  .two-column-layout {
+    flex-direction: column;
+  }
+  
+  .right-column {
+    flex: none;
+    width: 100%;
+    position: static;
+  }
+  
+  .right-column .news-container {
+    max-height: 400px;
+  }
+}
+
 /* 自定义布局优化：增加内容区域宽度 */
 .wrapper {
   width: 75% !important;
@@ -38,5 +190,350 @@
 @media screen and (max-width: 960px) {
   .image.avatar img {
     width: 200px !important; /* 从180px增加到200px */
+  }
+}
+
+/* News 部分滚动容器样式 */
+.news-container {
+  max-height: 280px; /* 设置最大高度，约显示5条新闻 */
+  overflow-y: auto; /* 启用垂直滚动 */
+  overflow-x: hidden; /* 隐藏水平滚动 */
+  padding-right: 10px; /* 为滚动条留出空间 */
+  margin-top: 10px;
+  margin-bottom: 20px;
+  scrollbar-width: thin; /* Firefox 滚动条样式 */
+  scrollbar-color: #888 #f1f1f1;
+}
+
+/* 美化滚动条样式（Webkit浏览器：Chrome, Safari, Edge） */
+.news-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.news-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+  transition: background 0.3s ease;
+}
+
+.news-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* News 列表项样式优化 - 针对 Markdown 渲染的列表 */
+.news-container ul,
+.news-container > ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.news-container li,
+.news-container > ul > li {
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #f0f0f0;
+  transition: padding-left 0.2s ease;
+  line-height: 1.6;
+}
+
+.news-container li:last-child,
+.news-container > ul > li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.news-container li:hover,
+.news-container > ul > li:hover {
+  padding-left: 5px;
+}
+
+/* 小屏幕调整 */
+@media screen and (max-width: 960px) {
+  .news-container {
+    max-height: 250px; /* 小屏幕上约显示5条新闻 */
+  }
+}
+
+/* 研究方向折叠样式 */
+.research-direction {
+  margin: 8px 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 8px 12px;
+  background-color: #fafafa;
+  transition: all 0.3s ease;
+}
+
+.research-direction:hover {
+  background-color: #f5f5f5;
+  border-color: #d0d0d0;
+}
+
+.research-direction summary {
+  cursor: pointer;
+  font-size: 1em;
+  padding: 4px 0;
+  list-style: none;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.research-direction summary::-webkit-details-marker {
+  display: none;
+}
+
+.research-direction summary::before {
+  content: "▶";
+  display: inline-block;
+  transition: transform 0.3s ease;
+  margin-right: 6px;
+  color: #666;
+  font-size: 0.85em;
+}
+
+.research-direction[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.expand-hint {
+  font-size: 0.8em;
+  color: #888;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.research-direction[open] .expand-hint {
+  display: none;
+}
+
+.research-direction .research-timeline-container {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #e0e0e0;
+}
+
+/* 研究方向超紧凑网格布局 */
+.research-table {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.research-row {
+  display: flex;
+  flex-direction: column;
+  padding: 6px 8px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  background-color: #fafafa;
+  transition: all 0.2s ease;
+}
+
+.research-row:hover {
+  background-color: #f5f5f5;
+  border-color: #d0d0d0;
+}
+
+.research-topic {
+  font-size: 0.88em;
+  margin-bottom: 4px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #e8e8e8;
+  line-height: 1.2;
+}
+
+.research-works {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: nowrap;
+}
+
+.research-works .research-timeline-item {
+  flex-shrink: 1;
+  min-width: 0;
+}
+
+.research-works .research-timeline-item a {
+  font-size: 0.92em;
+}
+
+.research-works .research-venue {
+  font-size: 0.8em;
+}
+
+.research-works .timeline-arrow {
+  flex-shrink: 0;
+  margin: 0 3px;
+  padding-top: 5px;
+  font-size: 0.9em;
+}
+
+.survey-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.survey-item a {
+  display: inline;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.survey-item a::after {
+  content: "📎";
+  font-size: 0.7em;
+  margin-left: 3px;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+}
+
+.survey-item a:hover::after {
+  opacity: 1;
+}
+
+/* 小屏幕上单列显示 */
+@media screen and (max-width: 960px) {
+  .research-table {
+    grid-template-columns: 1fr;
+  }
+  
+  .research-works {
+    flex-wrap: wrap;
+  }
+}
+
+/* Professional Services 卡片样式 */
+.service-card {
+  background: linear-gradient(135deg, #fafafa 0%, #f7f7f7 100%);
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 18px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-color: #d0d0d0;
+  transform: translateY(-2px);
+}
+
+.service-card ul {
+  margin: 0;
+  padding-left: 1.5em;
+}
+
+.service-card li {
+  margin-bottom: 12px;
+  line-height: 1.6;
+}
+
+.service-card li:last-child {
+  margin-bottom: 0;
+}
+
+.service-card p {
+  margin-bottom: 10px;
+}
+
+.service-card strong {
+  color: #333;
+}
+
+/* 研究时间线样式优化 */
+.research-timeline-container {
+  display: inline-flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 8px 0;
+  gap: 10px;
+  max-width: 100%;
+}
+
+/* 删除滚动条样式，因为现在使用换行 */
+
+.research-timeline-item {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: top;
+}
+
+.research-timeline-item a {
+  display: block;
+  margin-bottom: 3px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.research-timeline-item a::after {
+  content: "📎";
+  font-size: 0.75em;
+  margin-left: 4px;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+}
+
+.research-timeline-item a:hover::after {
+  opacity: 1;
+}
+
+.research-venue {
+  display: block;
+  font-size: 0.9em;
+  color: #666;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.research-venue .highlight-badge {
+  color: #d32f2f;
+  font-weight: bold;
+}
+
+.timeline-arrow {
+  color: #888;
+  margin: 0 6px;
+  font-weight: normal;
+  flex-shrink: 0;
+  align-self: flex-start;
+  padding-top: 8px;
+}
+
+/* 小屏幕上的时间线调整 */
+@media screen and (max-width: 960px) {
+  .research-timeline-container {
+    gap: 8px;
+    padding: 6px 0;
+  }
+  
+  .research-timeline-item {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .research-venue {
+    font-size: 0.7em;
+  }
+  
+  .timeline-arrow {
+    margin: 0 4px;
+    padding-top: 6px;
   }
 }
