@@ -6,6 +6,7 @@ layout: homepage
 <nav class="page-tabs">
   <button class="tab-button active" data-tab="about">About Me</button>
   <button class="tab-button" data-tab="professional">Professional & Academic Services</button>
+  <button class="tab-button" data-tab="gallery">Gallery</button>
 </nav>
 
 <!-- About Me 内容 -->
@@ -13,8 +14,6 @@ layout: homepage
 
 <div class="two-column-layout">
 <div class="left-column" markdown="1">
-
-## About Me
 
 👋 I am a **Ph.D. candidate** in the AI Thrust at HKUST(GZ). I am fortunate to be advised by [Prof. Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Prof. Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I have served as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/) supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) from 2025.02 to 2026.02. Recently, I have also been collaborating with [Prof. Philip S. Yu @ UIC](https://scholar.google.com.hk/citations?user=D0lL1r0AAAAJ&hl=zh-CN&oi=ao), [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
 
@@ -280,6 +279,13 @@ I also survey papers in cutting-edge topics:
 {% include_relative _includes/services.md %}
 
 </div>
+
+</div>
+
+<!-- Gallery 内容 -->
+<div id="gallery-tab" class="tab-content" markdown="1">
+
+{% include_relative _includes/gallery.md %}
 
 </div>
 

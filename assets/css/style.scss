@@ -89,13 +89,13 @@
 }
 
 .right-column {
-  flex: 0 0 350px;
+  flex: 0 0 300px;
   position: sticky;
   top: 20px;
   background: linear-gradient(135deg, #fafafa 0%, #f5f5f5 100%);
   border: 1px solid #e0e0e0;
   border-radius: 12px;
-  padding: 20px;
+  padding: 18px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.04);
   transition: all 0.3s ease;
 }
