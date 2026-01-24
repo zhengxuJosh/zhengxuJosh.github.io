@@ -242,8 +242,6 @@ I also survey papers in cutting-edge topics:
 <!-- Professional & Academic Services 内容 -->
 <div id="professional-tab" class="tab-content" markdown="1">
 
-## Professional & Academic Services
-
 ### Invited Talks
 
 <div class="service-card" markdown="1">
