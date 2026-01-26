@@ -153,7 +153,7 @@ My recent research interest lies in:
   </div>
 
   <div class="research-row">
-    <div class="research-topic"><strong>Scene Understanding & Spatial Reasoning</strong></div>
+    <div class="research-topic"><strong>Scene Understanding & Spatial Intelligence</strong></div>
     <div class="research-works">
       <div class="research-timeline-item">
         <a href="https://dl.acm.org/doi/pdf/10.1145/3743093.3770977"><strong>Pano-R1</strong></a>
