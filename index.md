@@ -161,8 +161,8 @@ My recent research interest lies in:
       </div>
       <span class="timeline-arrow">→</span>
       <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2505.11907"><strong>OSR-Bench</strong></a>
-        <span class="research-venue">arXiv 2025</span>
+        <a href="https://arxiv.org/pdf/2510.06218"><strong>Egonight</strong></a>
+        <span class="research-venue">ICLR 2026</span>
       </div>
     </div>
   </div>
