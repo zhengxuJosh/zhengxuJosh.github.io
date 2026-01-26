@@ -146,8 +146,8 @@ My recent research interest lies in:
       </div>
       <span class="timeline-arrow">→</span>
       <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2308.03135"><strong>EventBind</strong></a>
-        <span class="research-venue">ECCV 2024</span>
+        <a href="https://arxiv.org/pdf/2509.18639?"><strong>UiG</strong></a>
+        <span class="research-venue">Arxiv 2025</span>
       </div>
     </div>
   </div>
@@ -156,8 +156,8 @@ My recent research interest lies in:
     <div class="research-topic"><strong>Scene Understanding & Spatial Reasoning</strong></div>
     <div class="research-works">
       <div class="research-timeline-item">
-        <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf"><strong>OmniSAM</strong></a>
-        <span class="research-venue">ICCV 2025</span>
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3743093.3770977"><strong>Pano-R1</strong></a>
+        <span class="research-venue">ACM MM Asia 2025</span>
       </div>
       <span class="timeline-arrow">→</span>
       <div class="research-timeline-item">
@@ -176,8 +176,8 @@ My recent research interest lies in:
       </div>
       <span class="timeline-arrow">→</span>
       <div class="research-timeline-item">
-        <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf"><strong>DPPASS</strong></a>
-        <span class="research-venue">CVPR 2023</span>
+        <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf"><strong>OmniSAM</strong></a>
+        <span class="research-venue">ICCV 2025</span>
       </div>
     </div>
   </div>
@@ -191,8 +191,8 @@ My recent research interest lies in:
       </div>
       <span class="timeline-arrow">→</span>
       <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2310.07265"><strong>C2VKD</strong></a>
-        <span class="research-venue">Pattern Recognition 2024</span>
+        <a href="https://arxiv.org/pdf/2511.21574"><strong>MRPD</strong></a>
+        <span class="research-venue">AAAI 2026</span>
       </div>
     </div>
   </div>
