@@ -183,7 +183,7 @@ My recent research interest lies in:
   </div>
 
   <div class="research-row">
-    <div class="research-topic"><strong>Robustness & Knowledge Distillation</strong></div>
+    <div class="research-topic"><strong>Robustness & Security</strong></div>
     <div class="research-works">
       <div class="research-timeline-item">
         <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_CIARD_Cyclic_Iterative_Adversarial_Robustness_Distillation_ICCV_2025_paper.pdf"><strong>CIARD</strong></a>
