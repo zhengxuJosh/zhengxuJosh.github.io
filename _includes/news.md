@@ -1,5 +1,6 @@
+- **2026.02**: One paper accepted to IEEE TMM [BiXFormer](https://arxiv.org/pdf/2506.03675?).
 - **2026.02**: Finished my academic visit to INSAIT [Linkedin Post](https://www.linkedin.com/posts/xu-zheng-3185642a6_iclr-iccv-neurips-activity-7425574366425497601-K8yi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD3sQBGae5cdlTD6ToV59qsKz7e_q4uk8).
-- **2026.01**: Five paper accepted to **ICLR 2026**.
+- **2026.01**: Five paper accepted to **ICLR 2026**: [DiMER](https://arxiv.org/pdf/2504.17670), [MIRAGE](https://arxiv.org/pdf/2505.18679), [EgoNight](https://arxiv.org/pdf/2510.06218), [FERD](https://arxiv.org/pdf/2509.20793), and [ExDA](https://openreview.net/pdf?id=IBzmQVia88).
 - **2026.01**: One paper accepted to **ACM ToMM**.
 - **2025.11**: Selected to the [**MBZUAI Machine Learning Winter School 2026**](https://mlws.mbzuai.ac.ae/) in Abu Dhabi.
 - **2025.11**: Two papers accepted to **AAAI 2026**.
