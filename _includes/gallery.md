@@ -232,8 +232,6 @@ am5.ready(function() {
     <div class="gallery-caption">🇻🇦 Vatican City</div>
   </div>
 
-</div>
-
   <!-- United Arab Emirates - Auto Slideshow -->
   <div class="gallery-item gallery-slideshow" data-country="uae">
     <div class="gallery-slideshow-container">
@@ -282,6 +280,8 @@ am5.ready(function() {
     <div class="gallery-caption">
       🇦🇪 United Arab Emirates <span class="photo-count">(6 photos)</span>
     </div>
+</div>
+
   </div>
 
 <div class="gallery-note">
