@@ -234,6 +234,56 @@ am5.ready(function() {
 
 </div>
 
+  <!-- United Arab Emirates - Auto Slideshow -->
+  <div class="gallery-item gallery-slideshow" data-country="uae">
+    <div class="gallery-slideshow-container">
+      
+      <img src="/assets/gallery/UAE/Daytime view of the mosque.jpeg"
+           alt="UAE Mosque Daytime"
+           class="gallery-image slideshow-image active"
+           onclick="openLightbox('/assets/gallery/UAE/Daytime view of the mosque.jpeg', '🇦🇪 UAE - Sheikh Zayed Grand Mosque (Daytime)')">
+
+      <img src="/assets/gallery/UAE/National Museum.jpeg"
+           alt="UAE National Museum"
+           class="gallery-image slideshow-image"
+           onclick="openLightbox('/assets/gallery/UAE/National Museum.jpeg', '🇦🇪 UAE - National Museum')">
+
+      <img src="/assets/gallery/UAE/Night view of the mosque.jpeg"
+           alt="UAE Mosque Night"
+           class="gallery-image slideshow-image"
+           onclick="openLightbox('/assets/gallery/UAE/Night view of the mosque.jpeg', '🇦🇪 UAE - Sheikh Zayed Grand Mosque (Night)')">
+
+      <img src="/assets/gallery/UAE/Presidential Palace Perspective.jpeg"
+           alt="UAE Presidential Palace"
+           class="gallery-image slideshow-image"
+           onclick="openLightbox('/assets/gallery/UAE/Presidential Palace Perspective.jpeg', '🇦🇪 UAE - Qasr Al Watan (Presidential Palace)')">
+
+      <img src="/assets/gallery/UAE/presidential palace.jpeg"
+           alt="UAE Presidential Palace"
+           class="gallery-image slideshow-image"
+           onclick="openLightbox('/assets/gallery/UAE/presidential palace.jpeg', '🇦🇪 UAE - Qasr Al Watan')">
+
+      <img src="/assets/gallery/UAE/The Louvre at Sea.jpeg"
+           alt="UAE Louvre Abu Dhabi"
+           class="gallery-image slideshow-image"
+           onclick="openLightbox('/assets/gallery/UAE/The Louvre at Sea.jpeg', '🇦🇪 UAE - Louvre Abu Dhabi')">
+
+    </div>
+
+    <div class="slideshow-dots">
+      <span class="slideshow-dot active"></span>
+      <span class="slideshow-dot"></span>
+      <span class="slideshow-dot"></span>
+      <span class="slideshow-dot"></span>
+      <span class="slideshow-dot"></span>
+      <span class="slideshow-dot"></span>
+    </div>
+
+    <div class="gallery-caption">
+      🇦🇪 United Arab Emirates <span class="photo-count">(6 photos)</span>
+    </div>
+  </div>
+
 <div class="gallery-note">
 📸 <em>Photos from my travels around the world. More destinations coming soon!</em>
 </div>
