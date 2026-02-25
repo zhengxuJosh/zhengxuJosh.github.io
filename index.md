@@ -61,6 +61,11 @@ My doctoral research develops robust and interpretable multi-modal learning algo
       <a href="https://dl.acm.org/doi/pdf/10.1145/3743093.3770977"><strong>Pano-R1</strong></a>
       <span class="research-venue">ACM MM Asia 2025</span>
     </div>
+    <span class="timeline-arrow">→</span>
+    <div class="research-timeline-item">
+      <a href="https://arxiv.org/pdf/2505.11907"><strong>OSR-Bench</strong></a>
+      <span class="research-venue">CVPR 2026</span>
+    </div>
   </div>
 </details>
 
@@ -115,6 +120,11 @@ My doctoral research develops robust and interpretable multi-modal learning algo
     <div class="research-timeline-item">
       <a href="https://arxiv.org/pdf/2505.06635"><strong>MFEnR</strong></a>
       <span class="research-venue">ICCV 2025</span>
+    </div>
+    <span class="timeline-arrow">→</span>
+    <div class="research-timeline-item">
+      <a href="https://arxiv.org/pdf/2505.12861"><strong>HPD</strong></a>
+      <span class="research-venue">CVPR 2026</span>
     </div>
   </div>
 </details>
