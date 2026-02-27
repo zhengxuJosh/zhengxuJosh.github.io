@@ -15,7 +15,9 @@ layout: homepage
 <div class="two-column-layout">
 <div class="left-column" markdown="1">
 
-👋 I am a **Ph.D. candidate** in the AI Thrust at HKUST(GZ). I am fortunate to be advised by [Prof. Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Prof. Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). I had served as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/) supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) from 2025.02 to 2026.02. Recently, I have also been collaborating with [Prof. Philip S. Yu @ UIC](https://scholar.google.com.hk/citations?user=D0lL1r0AAAAJ&hl=zh-CN&oi=ao), [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
+👋 I am a **Ph.D. candidate** in the AI Thrust at HKUST(GZ). I am fortunate to be advised by [Prof. Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Prof. Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). Recently, I have also been collaborating with [Prof. Philip S. Yu @ UIC](https://scholar.google.com.hk/citations?user=D0lL1r0AAAAJ&hl=zh-CN&oi=ao), [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
+
+I am also a visiting researcher @ [Soul APP](https://www.soulapp.cn/), collaborating with research & engineer teams @ Soul AI for Hour-Scale Real-Time Human Animation. I had served as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/) supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) from 2025.02 to 2026.02. 
 
 My doctoral research develops robust and interpretable multi-modal learning algorithms spanning **perception**, **understanding**, **reasoning**, and **generation**. My two main doctoral research directions are:
 
@@ -133,21 +135,6 @@ My recent research interest lies in:
 
 <div class="research-table">
   <div class="research-row">
-    <div class="research-topic"><strong>Artificial Intelligence Generated Content (AIGC)</strong></div>
-    <div class="research-works">
-      <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2502.00848"><strong>RealRAG</strong></a>
-        <span class="research-venue">ICML 2025</span>
-      </div>
-      <span class="timeline-arrow">→</span>
-      <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2506.09482"><strong>TransDiff</strong></a>
-        <span class="research-venue">arXiv 2025</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="research-row">
     <div class="research-topic"><strong>Multimodal Foundation Models</strong></div>
     <div class="research-works">
       <div class="research-timeline-item">
@@ -161,7 +148,7 @@ My recent research interest lies in:
       </div>
     </div>
   </div>
-
+  
   <div class="research-row">
     <div class="research-topic"><strong>Scene Understanding & Spatial Intelligence</strong></div>
     <div class="research-works">
@@ -193,7 +180,7 @@ My recent research interest lies in:
   </div>
 
   <div class="research-row">
-    <div class="research-topic"><strong>Robustness & Security</strong></div>
+    <div class="research-topic"><strong>AI Robustness & Security</strong></div>
     <div class="research-works">
       <div class="research-timeline-item">
         <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_CIARD_Cyclic_Iterative_Adversarial_Robustness_Distillation_ICCV_2025_paper.pdf"><strong>CIARD</strong></a>
@@ -206,6 +193,22 @@ My recent research interest lies in:
       </div>
     </div>
   </div>
+
+  <div class="research-row">
+    <div class="research-topic"><strong>Artificial Intelligence Generated Content (AIGC)</strong></div>
+    <div class="research-works">
+      <div class="research-timeline-item">
+        <a href="https://arxiv.org/pdf/2502.00848"><strong>RealRAG</strong></a>
+        <span class="research-venue">ICML 2025</span>
+      </div>
+      <span class="timeline-arrow">→</span>
+      <div class="research-timeline-item">
+        <a href="https://arxiv.org/pdf/2506.09482"><strong>TransDiff</strong></a>
+        <span class="research-venue">arXiv 2025</span>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
 I also survey papers in cutting-edge topics:
