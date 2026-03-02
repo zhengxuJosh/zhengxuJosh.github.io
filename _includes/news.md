@@ -1,3 +1,5 @@
+- **2026.03**: One papers accepted to **TMLR** [BrightDreamer](https://arxiv.org/abs/2403.11273).
+- **2026.03**: Two papers accepted to **ICLR 2026 Workshop on Multimodal Intelligence**.
 - **2026.02**: Five papers accepted to **CVPR 2026**.
 - **2026.02**: Co-organize the [1st Cross-Domain EgoCross Challenge, CVPR 2026](https://egocross-benchmark.github.io/).
 - **2026.02**: One paper accepted to **IEEE TMM** [BiXFormer](https://arxiv.org/pdf/2506.03675?).
