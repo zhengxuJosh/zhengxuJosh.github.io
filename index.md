@@ -17,7 +17,9 @@ layout: homepage
 
 👋 I am a **Ph.D. candidate** in the AI Thrust at HKUST(GZ). I am fortunate to be advised by [Prof. Xuming Hu @ HKUST](https://xuminghu.github.io/) and [Prof. Raymond Chi-Wing Wong @ HKUST](https://www.cse.ust.hk/~raywong/). Recently, I have also been collaborating with [Prof. Philip S. Yu @ UIC](https://scholar.google.com.hk/citations?user=D0lL1r0AAAAJ&hl=zh-CN&oi=ao), [Prof. Nicu Sebe @ UNITN](https://disi.unitn.it/~sebe/), [Linfeng Zhang @ SJTU](http://www.zhanglinfeng.tech/), and [Kailun Yang @ HNU](https://www.yangkailun.com/). 
 
-I am also a visiting researcher @ [Soul APP](https://www.soulapp.cn/), collaborating with research & engineer teams @ Soul AI for Hour-Scale Real-Time Human Animation. I had served as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/) supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) from 2025.02 to 2026.02. 
+I am currently a research visitor at [Queen Mary University of London](https://www.qmul.ac.uk/), collaborating with [Professor Ioannis (Yiannis) Patras](https://ipatras.github.io/) on digital avatars. My work focuses on real-time streaming video generation and multimodal conversational modeling, aiming to enable human-like communication at scale — where AI avatars interact naturally through speech, vision, and language in real time.
+
+I am also a researcher @ [Soul APP](https://www.soulapp.cn/), collaborating with research & engineer teams @ Soul AI for Hour-Scale Real-Time Human Animation. I had served as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/) supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) from 2025.02 to 2026.02. 
 
 My doctoral research develops robust and interpretable multi-modal learning algorithms spanning **perception**, **understanding**, **reasoning**, and **generation**. My two main doctoral research directions are:
 
