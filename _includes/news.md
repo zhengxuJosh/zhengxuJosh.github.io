@@ -1,3 +1,4 @@
+- **2026.03**: Together with **Soul AI Lab @ Soul APP**, we release [SoulX-LiveAct](https://arxiv.org/pdf/2603.11746).
 - **2026.03**: One papers accepted to **TMLR** [BrightDreamer](https://arxiv.org/abs/2403.11273).
 - **2026.03**: Two papers accepted to **ICLR 2026 Workshop on Multimodal Intelligence**.
 - **2026.02**: Five papers accepted to **CVPR 2026**.
