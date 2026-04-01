@@ -20,6 +20,15 @@ layout: homepage
 
 I am currently a research visitor at [Queen Mary University of London](https://www.qmul.ac.uk/), collaborating with [Professor Ioannis (Yiannis) Patras](https://ipatras.github.io/) on digital avatars. I am also a researcher @ [Soul APP](https://www.soulapp.cn/), collaborating with research & engineer teams @ Soul AI for Hour-Scale Real-Time Human Animation. I had served as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/) supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) from 2025.02 to 2026.02. 
 
+<div class="scholar-banner">
+  <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Ii1c51QAAAAJ" target="_blank">
+    <i class="ai ai-google-scholar" style="font-size:1.2em; color:#4285F4;"></i>
+    <span class="scholar-text">Google Scholar</span>
+    <span class="scholar-divider">|</span>
+    <img class="scholar-badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FzhengxuJosh%2FzhengxuJosh.github.io%2Fmaster%2Fassets%2Fscholar.json&style=flat&label=&logo=googlescholar&logoColor=4285F4" alt="Citations">
+  </a>
+</div>
+
 <div class="featured-projects">
 <h3>Featured Open-Source Projects</h3>
 <div class="gh-cards-grid">

@@ -165,6 +165,43 @@
   }
 }
 
+/* Google Scholar Banner */
+.scholar-banner {
+  margin: 16px 0;
+}
+
+.scholar-banner a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  padding: 6px 12px;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  background: #f6f8fa;
+  transition: all 0.2s ease;
+}
+
+.scholar-banner a:hover {
+  border-color: #0969da;
+  background: #fff;
+}
+
+.scholar-text {
+  font-weight: 500;
+  color: #333;
+}
+
+.scholar-divider {
+  color: #d0d7de;
+  margin: 0 2px;
+}
+
+.scholar-badge {
+  height: 22px;
+  vertical-align: middle;
+}
+
 /* Featured Projects */
 .featured-projects {
   margin-top: 20px;

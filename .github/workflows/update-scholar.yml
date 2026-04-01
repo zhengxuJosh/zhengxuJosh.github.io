@@ -1,0 +1,51 @@
+name: Update Google Scholar Citations
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install scholarly
+
+      - name: Fetch citation data
+        run: |
+          python - <<'PYEOF'
+          import json, sys
+          try:
+              from scholarly import scholarly
+              author = scholarly.search_author_id('Ii1c51QAAAAJ')
+              author = scholarly.fill(author, sections=['basics'])
+              citations = author.get('citedby', 0)
+              data = {
+                  "schemaVersion": 1,
+                  "label": "citations",
+                  "message": str(citations),
+                  "color": "4285F4"
+              }
+              with open('assets/scholar.json', 'w') as f:
+                  json.dump(data, f, indent=2)
+              print(f"Updated citations: {citations}")
+          except Exception as e:
+              print(f"Failed to fetch: {e}", file=sys.stderr)
+              sys.exit(0)
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/scholar.json
+          git diff --cached --quiet || (git commit -m "chore: update scholar citations" && git push)
