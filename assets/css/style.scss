@@ -191,6 +191,83 @@
   }
 }
 
+/* Featured Projects */
+.featured-projects {
+  margin-top: 20px;
+}
+
+.featured-projects h3 {
+  font-size: 1.1em;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.project-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+@media screen and (max-width: 960px) {
+  .project-cards-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-card {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 14px 16px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  border-color: #c0c0c0;
+}
+
+.project-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.project-header a {
+  font-size: 1.05em;
+}
+
+.project-stars img {
+  vertical-align: middle;
+}
+
+.project-desc {
+  font-size: 0.9em;
+  color: #555;
+  line-height: 1.5;
+  margin: 0 0 10px 0;
+}
+
+.project-tags {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.project-tag {
+  display: inline-block;
+  font-size: 0.78em;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: #e8f0fe;
+  color: #1a73e8;
+  font-weight: 500;
+}
+
 /* 自定义布局优化：增加内容区域宽度 */
 .wrapper {
   width: 75% !important;

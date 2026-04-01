@@ -20,6 +20,65 @@ layout: homepage
 
 I am currently a research visitor at [Queen Mary University of London](https://www.qmul.ac.uk/), collaborating with [Professor Ioannis (Yiannis) Patras](https://ipatras.github.io/) on digital avatars. I am also a researcher @ [Soul APP](https://www.soulapp.cn/), collaborating with research & engineer teams @ Soul AI for Hour-Scale Real-Time Human Animation. I had served as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/) supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) from 2025.02 to 2026.02. 
 
+<div class="featured-projects">
+<h3>Featured Open-Source Projects</h3>
+<div class="project-cards-grid">
+
+<div class="project-card">
+  <div class="project-header">
+    <a href="https://github.com/Soul-AILab/SoulX-LiveAct" target="_blank"><strong>SoulX-LiveAct</strong></a>
+    <span class="project-stars"><img src="https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveAct?style=social" alt="GitHub stars"></span>
+  </div>
+  <p class="project-desc">Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory. <strong>20 FPS</strong> on 2x H100 GPUs.</p>
+  <div class="project-tags">
+    <span class="project-tag">Video Generation</span>
+    <span class="project-tag">Real-Time</span>
+    <span class="project-tag">Digital Avatar</span>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-header">
+    <a href="https://github.com/EnVision-Research/DVD" target="_blank"><strong>DVD</strong></a>
+    <span class="project-stars"><img src="https://img.shields.io/github/stars/EnVision-Research/DVD?style=social" alt="GitHub stars"></span>
+  </div>
+  <p class="project-desc">Deterministic Video Depth Estimation with Generative Priors. SoTA depth estimation using only <strong>367K frames</strong> (163x less data).</p>
+  <div class="project-tags">
+    <span class="project-tag">Depth Estimation</span>
+    <span class="project-tag">Video</span>
+    <span class="project-tag">Diffusion</span>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-header">
+    <a href="https://github.com/zhengxuJosh/Awesome-RAG-Vision" target="_blank"><strong>Awesome-RAG-Vision</strong></a>
+    <span class="project-stars"><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-RAG-Vision?style=social" alt="GitHub stars"></span>
+  </div>
+  <p class="project-desc">A curated list of Retrieval-Augmented Generation (RAG) for Computer Vision, covering understanding, generation, and embodied AI.</p>
+  <div class="project-tags">
+    <span class="project-tag">Survey</span>
+    <span class="project-tag">RAG</span>
+    <span class="project-tag">Computer Vision</span>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-header">
+    <a href="https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning" target="_blank"><strong>Awesome-Spatial-Reasoning</strong></a>
+    <span class="project-stars"><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning?style=social" alt="GitHub stars"></span>
+  </div>
+  <p class="project-desc">State-of-the-art papers on spatial reasoning for Multimodal Vision-Language Models, covering 3D, embodied AI, and benchmarks.</p>
+  <div class="project-tags">
+    <span class="project-tag">Survey</span>
+    <span class="project-tag">Spatial Reasoning</span>
+    <span class="project-tag">MLLM</span>
+  </div>
+</div>
+
+</div>
+</div>
+
 </div>
 
 <div class="right-column" markdown="1">
