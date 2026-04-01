@@ -89,20 +89,38 @@
 }
 
 .right-column {
-  flex: 0 0 300px;
+  flex: 0 0 220px;
   position: sticky;
   top: 20px;
-  background: linear-gradient(135deg, #fafafa 0%, #f5f5f5 100%);
+  background: #ffffff;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
-  padding: 18px;
+  padding: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.04);
-  transition: all 0.3s ease;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: top right;
+  font-size: 0.85em;
+  overflow: hidden;
 }
 
 .right-column:hover {
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12), 0 3px 6px rgba(0, 0, 0, 0.06);
-  border-color: #d0d0d0;
+  position: fixed;
+  top: 60px;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  padding: 30px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3), 0 8px 20px rgba(0, 0, 0, 0.15);
+  border-color: #b0b0b0;
+  z-index: 10000;
+  font-size: 1.05em;
+  overflow-y: auto;
+  border-radius: 16px;
+}
+
+.right-column:hover ~ *,
+.right-column:hover + * {
+  pointer-events: none;
 }
 
 .job-seeking-banner {
@@ -129,18 +147,31 @@
 
 .right-column h2 {
   margin-top: 0;
-  padding-bottom: 12px;
+  padding-bottom: 8px;
   border-bottom: 2px solid #e0e0e0;
   background: linear-gradient(90deg, #333 0%, #666 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  font-size: 1.3em;
+  font-size: 1.1em;
+  transition: all 0.3s ease;
+}
+
+.right-column:hover h2 {
+  font-size: 1.8em;
+  padding-bottom: 16px;
+  text-align: center;
 }
 
 .right-column .news-container {
-  max-height: 600px;
+  max-height: 450px;
   padding-right: 5px;
+  transition: max-height 0.4s ease;
+  overflow-y: auto;
+}
+
+.right-column:hover .news-container {
+  max-height: none;
 }
 
 /* 小屏幕改为单列布局 */

@@ -203,8 +203,8 @@ My recent research interest lies in:
       </div>
       <span class="timeline-arrow">→</span>
       <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2506.09482"><strong>TransDiff</strong></a>
-        <span class="research-venue">arXiv 2025</span>
+        <a href="https://github.com/Soul-AILab/SoulX-LiveAct"><strong>LiveAct</strong></a>
+        <span class="research-venue">arXiv 2026</span>
       </div>
     </div>
   </div>
@@ -235,10 +235,6 @@ I also survey papers in cutting-edge topics:
 </div>
 
 <div class="right-column" markdown="1">
-
-<div class="job-seeking-banner">
-🔥 I am actively seeking job opportunities (academia & industry) for Fall 2026!
-</div>
 
 ## News
 
