@@ -32,7 +32,7 @@ I am currently a research visitor at [Queen Mary University of London](https://w
   <p class="gh-repo-desc">Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory. 20 FPS on 2x H100 GPUs.</p>
   <div class="gh-repo-meta">
     <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #3572A5;"></span>Python</span>
-    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveAct?style=flat&label=&color=grey" alt="stars"></span>
+    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveAct?style=flat&label=stars&color=brightgreen" alt="stars"></span>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ I am currently a research visitor at [Queen Mary University of London](https://w
   <p class="gh-repo-desc">Deterministic Video Depth Estimation with Generative Priors. SoTA using only 367K frames (163x less data).</p>
   <div class="gh-repo-meta">
     <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #3572A5;"></span>Python</span>
-    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/EnVision-Research/DVD?style=flat&label=&color=grey" alt="stars"></span>
+    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/EnVision-Research/DVD?style=flat&label=stars&color=brightgreen" alt="stars"></span>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ I am currently a research visitor at [Queen Mary University of London](https://w
   <p class="gh-repo-desc">A curated list of Retrieval-Augmented Generation (RAG) for Computer Vision, covering understanding, generation, and embodied AI.</p>
   <div class="gh-repo-meta">
     <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #e34c26;"></span>Markdown</span>
-    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-RAG-Vision?style=flat&label=&color=grey" alt="stars"></span>
+    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-RAG-Vision?style=flat&label=stars&color=brightgreen" alt="stars"></span>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ I am currently a research visitor at [Queen Mary University of London](https://w
   <p class="gh-repo-desc">State-of-the-art papers on spatial reasoning for Multimodal Vision-Language Models, covering 3D, embodied AI, and benchmarks.</p>
   <div class="gh-repo-meta">
     <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #e34c26;"></span>Markdown</span>
-    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning?style=flat&label=&color=grey" alt="stars"></span>
+    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning?style=flat&label=stars&color=brightgreen" alt="stars"></span>
   </div>
 </div>
 
