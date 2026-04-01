@@ -104,23 +104,8 @@
 }
 
 .right-column:hover {
-  position: fixed;
-  top: 60px;
-  right: 20px;
-  bottom: 20px;
-  left: 20px;
-  padding: 30px;
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3), 0 8px 20px rgba(0, 0, 0, 0.15);
-  border-color: #b0b0b0;
-  z-index: 10000;
-  font-size: 1.05em;
-  overflow-y: auto;
-  border-radius: 16px;
-}
-
-.right-column:hover ~ *,
-.right-column:hover + * {
-  pointer-events: none;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12), 0 3px 6px rgba(0, 0, 0, 0.06);
+  border-color: #d0d0d0;
 }
 
 .job-seeking-banner {
@@ -157,21 +142,10 @@
   transition: all 0.3s ease;
 }
 
-.right-column:hover h2 {
-  font-size: 1.8em;
-  padding-bottom: 16px;
-  text-align: center;
-}
-
 .right-column .news-container {
   max-height: 450px;
   padding-right: 5px;
-  transition: max-height 0.4s ease;
   overflow-y: auto;
-}
-
-.right-column:hover .news-container {
-  max-height: none;
 }
 
 /* 小屏幕改为单列布局 */
@@ -203,69 +177,103 @@
   border-bottom: 2px solid #e0e0e0;
 }
 
-.project-cards-grid {
+.gh-cards-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 12px;
+  gap: 16px;
 }
 
 @media screen and (max-width: 960px) {
-  .project-cards-grid {
+  .gh-cards-grid {
     grid-template-columns: 1fr;
   }
 }
 
-.project-card {
-  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-  border: 1px solid #e0e0e0;
-  border-radius: 10px;
-  padding: 14px 16px;
-  transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+.gh-repo-card {
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 16px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  transition: border-color 0.2s ease;
 }
 
-.project-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-  border-color: #c0c0c0;
+.gh-repo-card:hover {
+  border-color: #0969da;
 }
 
-.project-header {
+.gh-repo-name {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  gap: 6px;
   margin-bottom: 8px;
 }
 
-.project-header a {
-  font-size: 1.05em;
+.gh-repo-icon {
+  color: #656d76;
+  flex-shrink: 0;
 }
 
-.project-stars img {
-  vertical-align: middle;
+.gh-repo-name a {
+  font-size: 0.95em;
+  color: #0969da;
+  text-decoration: none;
 }
 
-.project-desc {
-  font-size: 0.9em;
-  color: #555;
+.gh-repo-name a:hover {
+  text-decoration: underline;
+}
+
+.gh-repo-name a strong {
+  font-weight: 600;
+}
+
+.gh-repo-desc {
+  font-size: 0.85em;
+  color: #656d76;
   line-height: 1.5;
-  margin: 0 0 10px 0;
+  margin: 0 0 auto 0;
+  padding-bottom: 12px;
+  flex-grow: 1;
 }
 
-.project-tags {
+.gh-repo-meta {
   display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  font-size: 0.78em;
+  color: #656d76;
+  padding-top: 8px;
+  border-top: 1px solid #eee;
 }
 
-.project-tag {
+.gh-repo-lang {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.gh-lang-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
   display: inline-block;
-  font-size: 0.78em;
-  padding: 2px 8px;
-  border-radius: 12px;
-  background: #e8f0fe;
-  color: #1a73e8;
-  font-weight: 500;
+}
+
+.gh-repo-stat {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.gh-repo-stat svg {
+  color: #656d76;
+}
+
+.gh-repo-stat img {
+  height: 16px;
+  vertical-align: middle;
 }
 
 /* 自定义布局优化：增加内容区域宽度 */

@@ -22,57 +22,53 @@ I am currently a research visitor at [Queen Mary University of London](https://w
 
 <div class="featured-projects">
 <h3>Featured Open-Source Projects</h3>
-<div class="project-cards-grid">
+<div class="gh-cards-grid">
 
-<div class="project-card">
-  <div class="project-header">
-    <a href="https://github.com/Soul-AILab/SoulX-LiveAct" target="_blank"><strong>SoulX-LiveAct</strong></a>
-    <span class="project-stars"><img src="https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveAct?style=social" alt="GitHub stars"></span>
+<div class="gh-repo-card">
+  <div class="gh-repo-name">
+    <svg class="gh-repo-icon" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" fill="currentColor"></path></svg>
+    <a href="https://github.com/Soul-AILab/SoulX-LiveAct" target="_blank">Soul-AILab / <strong>SoulX-LiveAct</strong></a>
   </div>
-  <p class="project-desc">Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory. <strong>20 FPS</strong> on 2x H100 GPUs.</p>
-  <div class="project-tags">
-    <span class="project-tag">Video Generation</span>
-    <span class="project-tag">Real-Time</span>
-    <span class="project-tag">Digital Avatar</span>
+  <p class="gh-repo-desc">Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory. 20 FPS on 2x H100 GPUs.</p>
+  <div class="gh-repo-meta">
+    <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #3572A5;"></span>Python</span>
+    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveAct?style=flat&label=&color=grey" alt="stars"></span>
   </div>
 </div>
 
-<div class="project-card">
-  <div class="project-header">
-    <a href="https://github.com/EnVision-Research/DVD" target="_blank"><strong>DVD</strong></a>
-    <span class="project-stars"><img src="https://img.shields.io/github/stars/EnVision-Research/DVD?style=social" alt="GitHub stars"></span>
+<div class="gh-repo-card">
+  <div class="gh-repo-name">
+    <svg class="gh-repo-icon" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" fill="currentColor"></path></svg>
+    <a href="https://github.com/EnVision-Research/DVD" target="_blank">EnVision-Research / <strong>DVD</strong></a>
   </div>
-  <p class="project-desc">Deterministic Video Depth Estimation with Generative Priors. SoTA depth estimation using only <strong>367K frames</strong> (163x less data).</p>
-  <div class="project-tags">
-    <span class="project-tag">Depth Estimation</span>
-    <span class="project-tag">Video</span>
-    <span class="project-tag">Diffusion</span>
-  </div>
-</div>
-
-<div class="project-card">
-  <div class="project-header">
-    <a href="https://github.com/zhengxuJosh/Awesome-RAG-Vision" target="_blank"><strong>Awesome-RAG-Vision</strong></a>
-    <span class="project-stars"><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-RAG-Vision?style=social" alt="GitHub stars"></span>
-  </div>
-  <p class="project-desc">A curated list of Retrieval-Augmented Generation (RAG) for Computer Vision, covering understanding, generation, and embodied AI.</p>
-  <div class="project-tags">
-    <span class="project-tag">Survey</span>
-    <span class="project-tag">RAG</span>
-    <span class="project-tag">Computer Vision</span>
+  <p class="gh-repo-desc">Deterministic Video Depth Estimation with Generative Priors. SoTA using only 367K frames (163x less data).</p>
+  <div class="gh-repo-meta">
+    <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #3572A5;"></span>Python</span>
+    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/EnVision-Research/DVD?style=flat&label=&color=grey" alt="stars"></span>
   </div>
 </div>
 
-<div class="project-card">
-  <div class="project-header">
-    <a href="https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning" target="_blank"><strong>Awesome-Spatial-Reasoning</strong></a>
-    <span class="project-stars"><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning?style=social" alt="GitHub stars"></span>
+<div class="gh-repo-card">
+  <div class="gh-repo-name">
+    <svg class="gh-repo-icon" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" fill="currentColor"></path></svg>
+    <a href="https://github.com/zhengxuJosh/Awesome-RAG-Vision" target="_blank">zhengxuJosh / <strong>Awesome-RAG-Vision</strong></a>
   </div>
-  <p class="project-desc">State-of-the-art papers on spatial reasoning for Multimodal Vision-Language Models, covering 3D, embodied AI, and benchmarks.</p>
-  <div class="project-tags">
-    <span class="project-tag">Survey</span>
-    <span class="project-tag">Spatial Reasoning</span>
-    <span class="project-tag">MLLM</span>
+  <p class="gh-repo-desc">A curated list of Retrieval-Augmented Generation (RAG) for Computer Vision, covering understanding, generation, and embodied AI.</p>
+  <div class="gh-repo-meta">
+    <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #e34c26;"></span>Markdown</span>
+    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-RAG-Vision?style=flat&label=&color=grey" alt="stars"></span>
+  </div>
+</div>
+
+<div class="gh-repo-card">
+  <div class="gh-repo-name">
+    <svg class="gh-repo-icon" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" fill="currentColor"></path></svg>
+    <a href="https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning" target="_blank">zhengxuJosh / <strong>Awesome-Spatial-Reasoning</strong></a>
+  </div>
+  <p class="gh-repo-desc">State-of-the-art papers on spatial reasoning for Multimodal Vision-Language Models, covering 3D, embodied AI, and benchmarks.</p>
+  <div class="gh-repo-meta">
+    <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #e34c26;"></span>Markdown</span>
+    <span class="gh-repo-stat"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"></path></svg><img src="https://img.shields.io/github/stars/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning?style=flat&label=&color=grey" alt="stars"></span>
   </div>
 </div>
 
