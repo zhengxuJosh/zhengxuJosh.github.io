@@ -179,8 +179,8 @@
 
 .experience-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 12px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
 }
 
 .experience-item {
@@ -188,35 +188,37 @@
   background: #fff;
   border: 1px solid #d0d7de;
   border-radius: 8px;
-  padding: 10px 8px;
+  padding: 8px 6px;
 }
 
 .experience-item img {
   width: auto;
-  max-width: 120px;
+  max-width: 90px;
   height: auto;
-  max-height: 56px;
+  max-height: 42px;
   object-fit: contain;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
 .experience-role {
-  font-size: 0.85em;
+  font-size: 0.78em;
   font-weight: 600;
   color: #222;
+  line-height: 1.25;
 }
 
 .experience-org {
-  font-size: 0.8em;
+  font-size: 0.72em;
   color: #4b5563;
   margin-top: 2px;
+  line-height: 1.25;
 }
 
 .experience-time {
-  font-size: 0.75em;
+  font-size: 0.68em;
   color: #6b7280;
   margin-top: 2px;
 }
