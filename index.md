@@ -22,28 +22,25 @@ I am currently a research visitor at [Queen Mary University of London](https://w
 
 <div class="experience-section">
   <h3>Experience</h3>
-  <div class="experience-timeline">
+  <div class="experience-grid">
     <div class="experience-item">
       <img src="./assets/logo/Hong_Kong_University_of_Science_and_Technology_symbol.svg" alt="HKUST logo">
       <div class="experience-role">Ph.D. Candidate</div>
       <div class="experience-org">HKUST(GZ)</div>
       <div class="experience-time">2022 - Present</div>
     </div>
-    <div class="experience-arrow">→</div>
     <div class="experience-item">
       <img src="./assets/logo/Soul_app_logo.jpeg" alt="Soul APP logo">
       <div class="experience-role">Researcher</div>
       <div class="experience-org">Soul APP</div>
       <div class="experience-time">2025 - Present</div>
     </div>
-    <div class="experience-arrow">→</div>
     <div class="experience-item">
       <img src="./assets/logo/INSAIT_logo_and_slogan.png" alt="INSAIT logo">
       <div class="experience-role">Resident Doctoral Researcher</div>
       <div class="experience-org">INSAIT</div>
       <div class="experience-time">2025.02 - 2026.02</div>
     </div>
-    <div class="experience-arrow">→</div>
     <div class="experience-item">
       <img src="./assets/logo/Arms_of_Queen_Mary_University_of_London.png" alt="QMUL logo">
       <div class="experience-role">Research Visitor</div>
