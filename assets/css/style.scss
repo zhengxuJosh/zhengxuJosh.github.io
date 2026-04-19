@@ -166,6 +166,63 @@
 }
 
 /* Google Scholar Banner */
+.experience-section {
+  margin: 18px 0 14px 0;
+}
+
+.experience-section h3 {
+  font-size: 1.1em;
+  margin: 0 0 10px 0;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.experience-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+
+.experience-item {
+  text-align: center;
+  background: #fff;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  padding: 10px 8px;
+}
+
+.experience-item img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+
+.experience-role {
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #222;
+}
+
+.experience-org {
+  font-size: 0.8em;
+  color: #4b5563;
+  margin-top: 2px;
+}
+
+.experience-time {
+  font-size: 0.75em;
+  color: #6b7280;
+  margin-top: 2px;
+}
+
+@media screen and (max-width: 960px) {
+  .experience-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .scholar-banner {
   margin: 16px 0;
 }

@@ -20,6 +20,36 @@ layout: homepage
 
 I am currently a research visitor at [Queen Mary University of London](https://www.qmul.ac.uk/), collaborating with [Professor Ioannis (Yiannis) Patras](https://ipatras.github.io/) on digital avatars. I am also a researcher @ [Soul APP](https://www.soulapp.cn/), collaborating with research & engineer teams @ Soul AI for Hour-Scale Real-Time Human Animation. I had served as a **Resident Doctoral Researcher** at [INSAIT](https://insait.ai/) supervised by [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) from 2025.02 to 2026.02. 
 
+<div class="experience-section">
+  <h3>Experience</h3>
+  <div class="experience-grid">
+    <div class="experience-item">
+      <img src="https://logo.clearbit.com/ust.hk" alt="HKUST logo">
+      <div class="experience-role">Ph.D. Candidate</div>
+      <div class="experience-org">HKUST(GZ)</div>
+      <div class="experience-time">2022 - Present</div>
+    </div>
+    <div class="experience-item">
+      <img src="https://logo.clearbit.com/qmul.ac.uk" alt="QMUL logo">
+      <div class="experience-role">Research Visitor</div>
+      <div class="experience-org">Queen Mary University of London</div>
+      <div class="experience-time">2026 - Present</div>
+    </div>
+    <div class="experience-item">
+      <img src="https://logo.clearbit.com/soulapp.cn" alt="Soul APP logo">
+      <div class="experience-role">Researcher</div>
+      <div class="experience-org">Soul APP</div>
+      <div class="experience-time">2025 - Present</div>
+    </div>
+    <div class="experience-item">
+      <img src="https://logo.clearbit.com/insait.ai" alt="INSAIT logo">
+      <div class="experience-role">Resident Doctoral Researcher</div>
+      <div class="experience-org">INSAIT</div>
+      <div class="experience-time">2025.02 - 2026.02</div>
+    </div>
+  </div>
+</div>
+
 <div class="scholar-banner">
   <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Ii1c51QAAAAJ" target="_blank">
     <i class="ai ai-google-scholar" style="font-size:1.2em; color:#4285F4;"></i>
