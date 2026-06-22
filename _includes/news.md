@@ -1,5 +1,7 @@
+- **2026.06**: Three papers accpeted to **ECCV 2026**.
+- **2026.04**: One paper accpeted to **ACL 2026**.
 - **2026.03**: Together with **Soul AI Lab @ Soul APP**, we release [SoulX-LiveAct](https://arxiv.org/pdf/2603.11746).
-- **2026.03**: One papers accepted to **TMLR** [BrightDreamer](https://arxiv.org/abs/2403.11273).
+- **2026.03**: One paper accepted to **TMLR** [BrightDreamer](https://arxiv.org/abs/2403.11273).
 - **2026.03**: Two papers accepted to **ICLR 2026 Workshop on Multimodal Intelligence**.
 - **2026.02**: Five papers accepted to **CVPR 2026**.
 - **2026.02**: Co-organize the [1st Cross-Domain EgoCross Challenge, CVPR 2026](https://egocross-benchmark.github.io/).
