@@ -1,3 +1,4 @@
+- **2026.07**: Four papers accepted to **ACM MM 2026**, including [LiveAct](https://lnkd.in/dkc3W-u8) (**Co-first Author 🔥**) [[GitHub](https://lnkd.in/dp6-X7ZB), **1.1K 🌟**]—hour-scale real-time human animation at **20 FPS** on two H100/H200 GPUs and **6 FPS** on a single RTX 5090, with FP4 GEMM support for B-series GPUs.
 - **2026.06**: Three papers accpeted to **ECCV 2026**.
 - **2026.04**: One paper accpeted to **ACL 2026**.
 - **2026.03**: Together with **Soul AI Lab @ Soul APP**, we release [SoulX-LiveAct](https://arxiv.org/pdf/2603.11746).
